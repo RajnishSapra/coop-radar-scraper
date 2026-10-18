@@ -1,0 +1,398 @@
+{
+ "run_at": "2026-10-18T14:30:41+00:00",
+ "seconds": 238,
+ "listings": 278,
+ "postings_with_text": 254,
+ "carried_over_from_last_run": [
+  "Microsoft"
+ ],
+ "sources": [
+  {
+   "source": "Royal Bank of Canada",
+   "platform": "workday",
+   "ok": true,
+   "rows": 23,
+   "seconds": 223.6,
+   "notes": [
+    "30 intern titles, 27 possibly in Canada"
+   ],
+   "origin": "Royal Bank of Canada"
+  },
+  {
+   "source": "TD Bank",
+   "platform": "workday",
+   "ok": true,
+   "rows": 0,
+   "seconds": 57.6,
+   "notes": [
+    "14 intern titles, 6 possibly in Canada"
+   ],
+   "origin": "TD Bank"
+  },
+  {
+   "source": "Scotiabank",
+   "platform": "csb",
+   "ok": true,
+   "rows": 4,
+   "seconds": 17.6,
+   "notes": [
+    "258 search results, 4 intern titles"
+   ],
+   "origin": "Scotiabank"
+  },
+  {
+   "source": "Bank of Montreal",
+   "platform": "workday",
+   "ok": true,
+   "rows": 7,
+   "seconds": 57.0,
+   "notes": [
+    "7 intern titles, 7 possibly in Canada"
+   ],
+   "origin": "Bank of Montreal"
+  },
+  {
+   "source": "CIBC",
+   "platform": "workday",
+   "ok": true,
+   "rows": 1,
+   "seconds": 42.2,
+   "notes": [
+    "7 intern titles, 3 possibly in Canada"
+   ],
+   "origin": "CIBC"
+  },
+  {
+   "source": "Manulife Financial",
+   "platform": "workday",
+   "ok": true,
+   "rows": 18,
+   "seconds": 76.8,
+   "notes": [
+    "38 intern titles, 31 possibly in Canada"
+   ],
+   "origin": "Manulife Financial"
+  },
+  {
+   "source": "Sun Life",
+   "platform": "workday",
+   "ok": true,
+   "rows": 1,
+   "seconds": 26.7,
+   "notes": [
+    "16 intern titles, 1 possibly in Canada"
+   ],
+   "origin": "Sun Life"
+  },
+  {
+   "source": "Intact",
+   "platform": "workday",
+   "ok": true,
+   "rows": 1,
+   "seconds": 19.8,
+   "notes": [
+    "1 intern titles, 1 possibly in Canada"
+   ],
+   "origin": "Intact"
+  },
+  {
+   "source": "CPP Investments",
+   "platform": "workday",
+   "ok": true,
+   "rows": 1,
+   "seconds": 7.0,
+   "notes": [
+    "1 intern titles, 1 possibly in Canada"
+   ],
+   "origin": "CPP Investments"
+  },
+  {
+   "source": "Ontario Teachers' Pension Plan",
+   "platform": "workday",
+   "ok": true,
+   "rows": 0,
+   "seconds": 5.8,
+   "notes": [
+    "0 intern titles, 0 possibly in Canada"
+   ],
+   "origin": "Ontario Teachers' Pension Plan"
+  },
+  {
+   "source": "British Columbia Investment",
+   "platform": "workday",
+   "ok": true,
+   "rows": 0,
+   "seconds": 3.3,
+   "notes": [
+    "0 intern titles, 0 possibly in Canada"
+   ],
+   "origin": "British Columbia Investment"
+  },
+  {
+   "source": "Microsoft",
+   "platform": "eightfold",
+   "ok": false,
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.careers.microsoft.com/api/pcsx/search?domain=microsoft.com&query=intern&location=Canada&start=0",
+   "trace": "Traceback (most recent call last):\n  File \"D:\\Claude Code\\Sachit internship\\radar_scraper.py\", line 556, in run_source\n    (read_foorilla(src) if platform == \"foorilla\" else READERS[platform](src, **params))\n                                                       ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^\n  File \"D:\\Claude Code\\Sachit internship\\radar_scraper.py\", line 265, in read_eightfold\n    r.raise_for_status()\n    ~~~~~~~~~~~~~~~~~~^^\n  File \"C:\\ProgramData\\anaconda3\\Lib\\site-packages\\requests\\models.py\", line 1024, in raise_for_status\n    raise HTTPError(http_error_msg, response=self)\nrequests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://apply.careers.microsoft.com/api/pcsx/search?domain=microsoft.com&query=intern&location=Canada&start=0\n",
+   "rows": 0,
+   "seconds": 1.4,
+   "notes": [],
+   "origin": "Microsoft"
+  },
+  {
+   "source": "Amazon",
+   "platform": "amazon",
+   "ok": true,
+   "rows": 8,
+   "seconds": 2.0,
+   "notes": [],
+   "origin": "Amazon"
+  },
+  {
+   "source": "Apple",
+   "platform": "apple",
+   "ok": true,
+   "rows": 0,
+   "seconds": 2.1,
+   "notes": [],
+   "origin": "Apple"
+  },
+  {
+   "source": "IBM",
+   "platform": "ibm",
+   "ok": true,
+   "rows": 21,
+   "seconds": 22.4,
+   "notes": [],
+   "origin": "IBM"
+  },
+  {
+   "source": "Intel",
+   "platform": "workday",
+   "ok": true,
+   "rows": 4,
+   "seconds": 84.7,
+   "notes": [
+    "93 intern titles, 29 possibly in Canada"
+   ],
+   "origin": "Intel"
+  },
+  {
+   "source": "AMD",
+   "platform": "jibe",
+   "ok": true,
+   "rows": 29,
+   "seconds": 7.9,
+   "notes": [],
+   "origin": "AMD"
+  },
+  {
+   "source": "NVIDIA",
+   "platform": "workday",
+   "ok": true,
+   "rows": 1,
+   "seconds": 105.4,
+   "notes": [
+    "169 intern titles, 48 possibly in Canada"
+   ],
+   "origin": "NVIDIA"
+  },
+  {
+   "source": "Qualcomm",
+   "platform": "eightfold",
+   "ok": true,
+   "rows": 19,
+   "seconds": 17.5,
+   "notes": [],
+   "origin": "Qualcomm"
+  },
+  {
+   "source": "Cisco",
+   "platform": "workday",
+   "ok": true,
+   "rows": 3,
+   "seconds": 49.0,
+   "notes": [
+    "37 intern titles, 16 possibly in Canada"
+   ],
+   "origin": "Cisco"
+  },
+  {
+   "source": "SAP",
+   "platform": "smartrecruiters",
+   "ok": true,
+   "rows": 0,
+   "seconds": 2.9,
+   "notes": [
+    "0 postings in Canada matched the search"
+   ],
+   "origin": "SAP"
+  },
+  {
+   "source": "Salesforce",
+   "platform": "workday",
+   "ok": true,
+   "rows": 0,
+   "seconds": 53.4,
+   "notes": [
+    "18 intern titles, 7 possibly in Canada"
+   ],
+   "origin": "Salesforce"
+  },
+  {
+   "source": "Autodesk",
+   "platform": "workday",
+   "ok": true,
+   "rows": 8,
+   "seconds": 51.1,
+   "notes": [
+    "24 intern titles, 9 possibly in Canada"
+   ],
+   "origin": "Autodesk"
+  },
+  {
+   "source": "Shopify",
+   "platform": "shopify",
+   "ok": true,
+   "rows": 0,
+   "seconds": 0.5,
+   "notes": [
+    "35 postings listed"
+   ],
+   "origin": "Shopify"
+  },
+  {
+   "source": "Wealthsimple",
+   "platform": "ashby",
+   "ok": true,
+   "rows": 1,
+   "seconds": 0.7,
+   "notes": [],
+   "origin": "Wealthsimple"
+  },
+  {
+   "source": "Cohere",
+   "platform": "ashby",
+   "ok": true,
+   "rows": 3,
+   "seconds": 0.7,
+   "notes": [],
+   "origin": "Cohere"
+  },
+  {
+   "source": "OpenText",
+   "platform": "csb",
+   "ok": true,
+   "rows": 0,
+   "seconds": 5.0,
+   "notes": [
+    "0 search results, 0 intern titles"
+   ],
+   "origin": "OpenText"
+  },
+  {
+   "source": "Ciena",
+   "platform": "workday",
+   "ok": true,
+   "rows": 7,
+   "seconds": 27.7,
+   "notes": [
+    "10 intern titles, 10 possibly in Canada"
+   ],
+   "origin": "Ciena"
+  },
+  {
+   "source": "Nokia",
+   "platform": "oracle",
+   "ok": true,
+   "rows": 16,
+   "seconds": 21.3,
+   "notes": [],
+   "origin": "Nokia"
+  },
+  {
+   "source": "Thomson Reuters",
+   "platform": "workday",
+   "ok": true,
+   "rows": 2,
+   "seconds": 59.6,
+   "notes": [
+    "6 intern titles, 6 possibly in Canada"
+   ],
+   "origin": "Thomson Reuters"
+  },
+  {
+   "source": "Geotab",
+   "platform": "greenhouse",
+   "ok": true,
+   "rows": 20,
+   "seconds": 1.4,
+   "notes": [],
+   "origin": "Geotab"
+  },
+  {
+   "source": "Clio",
+   "platform": "workday",
+   "ok": true,
+   "rows": 1,
+   "seconds": 11.9,
+   "notes": [
+    "1 intern titles, 1 possibly in Canada"
+   ],
+   "origin": "Clio"
+  },
+  {
+   "source": "Rogers",
+   "platform": "csb",
+   "ok": true,
+   "rows": 0,
+   "seconds": 10.4,
+   "notes": [
+    "145 search results, 0 intern titles"
+   ],
+   "origin": "Rogers"
+  },
+  {
+   "source": "TELUS",
+   "platform": "csb",
+   "ok": true,
+   "rows": 0,
+   "seconds": 4.2,
+   "notes": [
+    "24 search results, 0 intern titles"
+   ],
+   "origin": "TELUS"
+  },
+  {
+   "source": "Electronic Arts",
+   "platform": "avature",
+   "ok": true,
+   "rows": 17,
+   "seconds": 62.4,
+   "notes": [],
+   "origin": "Electronic Arts"
+  },
+  {
+   "source": "Ubisoft",
+   "platform": "smartrecruiters",
+   "ok": true,
+   "rows": 0,
+   "seconds": 3.4,
+   "notes": [
+    "39 postings in Canada matched the search"
+   ],
+   "origin": "Ubisoft"
+  },
+  {
+   "source": "Foorilla",
+   "platform": "foorilla",
+   "ok": true,
+   "rows": 63,
+   "seconds": 126.3,
+   "notes": [
+    "100 Foorilla listings"
+   ],
+   "origin": "Foorilla"
+  }
+ ]
+}
