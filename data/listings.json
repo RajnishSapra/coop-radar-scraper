@@ -511,41 +511,11 @@
  },
  {
   "company": "Autodesk",
-  "title": "Intern, AI Data Developer (Winter)",
-  "location": "Toronto, ON, CAN",
-  "term_raw": "",
-  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--AI-Data-Developer--Winter-_26WD101082-1",
-  "posted": "2026-10-01",
-  "source": "Career sites",
-  "origin": "Autodesk"
- },
- {
-  "company": "Autodesk",
   "title": "Intern, AI Developer/ Stagiaire en développement IA",
   "location": "Montreal, QC, CAN",
   "term_raw": "",
   "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2",
   "posted": "2026-08-30",
-  "source": "Career sites",
-  "origin": "Autodesk"
- },
- {
-  "company": "Autodesk",
-  "title": "Intern, AI/ML Platform (Winter)",
-  "location": "Toronto, ON, CAN",
-  "term_raw": "",
-  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061-1",
-  "posted": "2026-10-01",
-  "source": "Career sites",
-  "origin": "Autodesk"
- },
- {
-  "company": "Autodesk",
-  "title": "Product Management Intern, Stagiaire Gestion de Produit",
-  "location": "Montreal, QC, CAN",
-  "term_raw": "",
-  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Product-Management-Intern--Stagiaire-Gestion-de-Produit_26WD101135-2",
-  "posted": "2026-09-19",
   "source": "Career sites",
   "origin": "Autodesk"
  },
@@ -581,31 +551,11 @@
  },
  {
   "company": "Bank of Montreal",
-  "title": "Analyst, Capital Markets Treasury - Winter 2027 (Co-op/Internship) - 4 Months",
-  "location": "Toronto, ON, CAN",
-  "term_raw": "",
-  "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analyst--Capital-Markets-Treasury---Winter-2027--Co-op-Internship----4-Months_R260028665",
-  "posted": "2026-10-08",
-  "source": "Career sites",
-  "origin": "Bank of Montreal"
- },
- {
-  "company": "Bank of Montreal",
   "title": "Financial Governance, Audit & Internal Controls Analyst, Winter 2027 (Co-op/Internship) - 4 Months",
   "location": "Toronto, ON, CAN",
   "term_raw": "",
   "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Financial-Governance-and-Controls-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024742-1",
   "posted": "2026-10-16",
-  "source": "Career sites",
-  "origin": "Bank of Montreal"
- },
- {
-  "company": "Bank of Montreal",
-  "title": "Marketing Coordinator, Winter 2027 (Co-op/Internship) - 8 Months",
-  "location": "Toronto, ON, CAN",
-  "term_raw": "",
-  "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Marketing-Coordinator--Winter-2027--Co-op-Internship----8-Months_R260024511-1",
-  "posted": "2026-10-05",
   "source": "Career sites",
   "origin": "Bank of Montreal"
  },
@@ -636,16 +586,6 @@
   "term_raw": "",
   "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Private-Wealth-Analyst--Summer-2027--Co-op-Internship----4-months_R260025470",
   "posted": "2026-09-21",
-  "source": "Career sites",
-  "origin": "Bank of Montreal"
- },
- {
-  "company": "Bank of Montreal",
-  "title": "Wealth Investorline Associate, Winter 2027 (Co-op/Internship) - 4 months",
-  "location": "Toronto, ON, CAN",
-  "term_raw": "",
-  "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Wealth-Investorline-Associate--Winter-2027--Co-op-Internship----4-months_R260025850-2",
-  "posted": "2026-10-07",
   "source": "Career sites",
   "origin": "Bank of Montreal"
  },
@@ -688,6 +628,26 @@
   "posted": "2026-10-09",
   "source": "Foorilla",
   "origin": "Foorilla"
+ },
+ {
+  "company": "CIBC",
+  "title": "Advanced Analytics and AI Co-op",
+  "location": "Toronto, ON",
+  "term_raw": "",
+  "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Advanced-Analytics-and-AI-Co-op_2621440-1",
+  "posted": "2026-10-19",
+  "source": "Career sites",
+  "origin": "CIBC"
+ },
+ {
+  "company": "CIBC",
+  "title": "Analytics Co-op",
+  "location": "Toronto, ON",
+  "term_raw": "12 months",
+  "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analytics-Co-op_2621449-2",
+  "posted": "2026-10-19",
+  "source": "Career sites",
+  "origin": "CIBC"
  },
  {
   "company": "CIBC",
@@ -791,11 +751,21 @@
  },
  {
   "company": "Ciena",
+  "title": "Services Business Intelligence & Analytics Intern",
+  "location": "Montreal; Ottawa",
+  "term_raw": "January 2027, 4 months",
+  "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851",
+  "posted": "2026-10-19",
+  "source": "Career sites",
+  "origin": "Ciena"
+ },
+ {
+  "company": "Ciena",
   "title": "Wavelogic Embedded Software Developer Intern (Winter 2027)",
   "location": "Ottawa",
   "term_raw": "",
   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Embedded-Software-Developer-Intern--Winter-2027-_R031890",
-  "posted": "2026-10-15",
+  "posted": "2026-10-19",
   "source": "Career sites",
   "origin": "Ciena"
  },
@@ -1044,7 +1014,7 @@
   "title": "Software Engineer Intern",
   "location": "Vancouver, Canada",
   "term_raw": "",
-  "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216287",
+  "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216227",
   "posted": "",
   "source": "Career sites",
   "origin": "Electronic Arts"
@@ -1054,7 +1024,7 @@
   "title": "Software Engineer Intern",
   "location": "Vancouver, Canada",
   "term_raw": "",
-  "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216227",
+  "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216287",
   "posted": "",
   "source": "Career sites",
   "origin": "Electronic Arts"
@@ -1121,16 +1091,6 @@
  },
  {
   "company": "Geotab",
-  "title": "Channel Marketing Intern (Winter/January 2027, 12-16 months)",
-  "location": "Oakville, Ontario - Canada; Toronto, Ontario - Canada; Waterloo, Ontario - Canada",
-  "term_raw": "January 2027, 16 months",
-  "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5380853008",
-  "posted": "2026-09-01",
-  "source": "Career sites",
-  "origin": "Geotab"
- },
- {
-  "company": "Geotab",
   "title": "Competitive Intelligence and Market Research Intern (Winter/January 2027, 12 Months)",
   "location": "Oakville, Ontario - Canada; Toronto, Ontario - Canada",
   "term_raw": "January 2027, 12 months",
@@ -1181,11 +1141,11 @@
  },
  {
   "company": "Geotab",
-  "title": "Finance Intern (Winter/January 2027, 12 Months)",
-  "location": "Oakville, Ontario - Canada; Waterloo, Ontario - Canada",
+  "title": "Events Intern (Winter/January 2027, 12 Months)",
+  "location": "Oakville, Ontario - Canada",
   "term_raw": "January 2027, 12 months",
-  "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5383131008",
-  "posted": "2026-09-02",
+  "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5452423008",
+  "posted": "2026-10-19",
   "source": "Career sites",
   "origin": "Geotab"
  },
@@ -1216,16 +1176,6 @@
   "term_raw": "January 2027, 12 months",
   "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5358560008",
   "posted": "2026-09-01",
-  "source": "Career sites",
-  "origin": "Geotab"
- },
- {
-  "company": "Geotab",
-  "title": "Product Coordinator Intern, Driver Compliance (Winter/January 2027, 12 Months)",
-  "location": "Oakville, Ontario - Canada; Toronto, Ontario - Canada; Waterloo, Ontario - Canada",
-  "term_raw": "January 2027, 12 months",
-  "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5360844008",
-  "posted": "2026-09-02",
   "source": "Career sites",
   "origin": "Geotab"
  },
@@ -1276,16 +1226,6 @@
   "term_raw": "January 2027, 12 months",
   "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5367565008",
   "posted": "2026-09-02",
-  "source": "Career sites",
-  "origin": "Geotab"
- },
- {
-  "company": "Geotab",
-  "title": "Solutions Delivery Intern, Platform (Winter/January 2027, 12 Months)",
-  "location": "Oakville, Ontario - Canada; Waterloo, Ontario - Canada",
-  "term_raw": "January 2027, 12 months",
-  "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5177168008",
-  "posted": "2026-05-05",
   "source": "Career sites",
   "origin": "Geotab"
  },
@@ -1346,16 +1286,6 @@
   "term_raw": "",
   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130862",
   "posted": "2026-08-25",
-  "source": "Career sites",
-  "origin": "IBM"
- },
- {
-  "company": "IBM",
-  "title": "Organizational Change Management Consultant Intern (January 2027 - 4 Months - Ottawa)",
-  "location": "Ottawa, CA",
-  "term_raw": "",
-  "url": "https://careers.ibm.com/careers/JobDetail?jobId=135555",
-  "posted": "2026-10-01",
   "source": "Career sites",
   "origin": "IBM"
  },
@@ -1751,16 +1681,6 @@
  },
  {
   "company": "Manulife Financial",
-  "title": "Summer Intern 2027 - Change Management",
-  "location": "Toronto, Ontario",
-  "term_raw": "",
-  "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Change-Management_JR26080429",
-  "posted": "2026-09-29",
-  "source": "Career sites",
-  "origin": "Manulife Financial"
- },
- {
-  "company": "Manulife Financial",
   "title": "Summer Intern 2027 - ESG & Sustainable Finance Intern",
   "location": "Toronto, Ontario",
   "term_raw": "",
@@ -1851,16 +1771,6 @@
  },
  {
   "company": "Manulife Financial",
-  "title": "Winter Co-op 2027 - Accounting Analyst",
-  "location": "Montreal, Quebec",
-  "term_raw": "",
-  "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Montreal-Quebec/Winter-Co-op-2027---Accounting-Analyst_JR26081947",
-  "posted": "2026-10-07",
-  "source": "Career sites",
-  "origin": "Manulife Financial"
- },
- {
-  "company": "Manulife Financial",
   "title": "Winter Co-op 2027 - HR Knowledge",
   "location": "Waterloo, Ontario",
   "term_raw": "",
@@ -1881,41 +1791,11 @@
  },
  {
   "company": "Manulife Financial",
-  "title": "Winter Co-op 2027 - Product Designer (UX/UI/HCI)",
-  "location": "Toronto, Ontario; Waterloo, Ontario",
-  "term_raw": "",
-  "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Product-Designer_JR26080163",
-  "posted": "2026-10-05",
-  "source": "Career sites",
-  "origin": "Manulife Financial"
- },
- {
-  "company": "Manulife Financial",
   "title": "Winter Co-op 2027 - Strategy Intern",
   "location": "Toronto, Ontario",
   "term_raw": "",
   "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Strategy-Intern_JR26091773",
   "posted": "2026-10-15",
-  "source": "Career sites",
-  "origin": "Manulife Financial"
- },
- {
-  "company": "Manulife Financial",
-  "title": "Winter Co-op 2027 – Automation Engineer (12 months)",
-  "location": "Toronto, Ontario; Waterloo, Ontario",
-  "term_raw": "12 months",
-  "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Automation-Engineer--12-months-_JR26091316",
-  "posted": "2026-10-02",
-  "source": "Career sites",
-  "origin": "Manulife Financial"
- },
- {
-  "company": "Manulife Financial",
-  "title": "Winter Co-op 2027 – Technology Enablement Analyst",
-  "location": "Toronto, Ontario",
-  "term_raw": "4 months",
-  "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Technology-Enablement-Analyst_JR26090774",
-  "posted": "2026-10-02",
   "source": "Career sites",
   "origin": "Manulife Financial"
  },
@@ -2401,26 +2281,6 @@
  },
  {
   "company": "Royal Bank of Canada",
-  "title": "2027 Winter – GRM, AI Business Analyst Intern – Innovation & AI Centre of Excellence (4 Months)",
-  "location": "TORONTO, Ontario, Canada",
-  "term_raw": "4 months",
-  "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Business-Analyst-Intern---Innovation---AI-Centre-of-Excellence--4-Months-_R-0000188000",
-  "posted": "2026-10-05",
-  "source": "Career sites",
-  "origin": "Royal Bank of Canada"
- },
- {
-  "company": "Royal Bank of Canada",
-  "title": "2027 Winter – GRM, AI Developer Intern - Innovation & AI Center of Excellence (4 Months)",
-  "location": "TORONTO, Ontario, Canada",
-  "term_raw": "4 months",
-  "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Developer-Intern---Innovation---AI-Center-of-Excellence--4-Months-_R-0000188001",
-  "posted": "2026-10-05",
-  "source": "Career sites",
-  "origin": "Royal Bank of Canada"
- },
- {
-  "company": "Royal Bank of Canada",
   "title": "Banking Advisor Intern",
   "location": "FREDERICTON, New Brunswick, Canada",
   "term_raw": "",
@@ -2531,6 +2391,16 @@
  },
  {
   "company": "Royal Bank of Canada",
+  "title": "Client Advisor Intern",
+  "location": "OAKVILLE, Ontario, Canada",
+  "term_raw": "",
+  "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/OAKVILLE-Ontario-Canada/Client-Advisor-Intern_R-0000190668-1",
+  "posted": "2026-10-19",
+  "source": "Career sites",
+  "origin": "Royal Bank of Canada"
+ },
+ {
+  "company": "Royal Bank of Canada",
   "title": "Client Advisor intern",
   "location": "HAMILTON, Ontario, Canada",
   "term_raw": "",
@@ -2585,7 +2455,7 @@
   "location": "HALIFAX, Nova Scotia, Canada",
   "term_raw": "",
   "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/HALIFAX-Nova-Scotia-Canada/Relationship-Manager-Commercial-Markets-Intern_R-0000190364-1",
-  "posted": "2026-10-14",
+  "posted": "2026-10-19",
   "source": "Career sites",
   "origin": "Royal Bank of Canada"
  },
