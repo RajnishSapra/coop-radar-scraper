@@ -540,16 +540,6 @@
   "origin": "Foorilla"
  },
  {
-  "company": "Astrazeneca",
-  "title": "Patient Data Insights Intern",
-  "location": "Canada - Mississauga",
-  "term_raw": "January 2027, 12 months",
-  "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/Canada---Mississauga/Patient-Data-Insights-Intern_R-262150",
-  "posted": "2026-10-19",
-  "source": "Foorilla",
-  "origin": "Foorilla"
- },
- {
   "company": "Bank of Montreal",
   "title": "BMO Capital Markets Summer 2027 Internship Risk and Capital Solutions Analyst, Toronto",
   "location": "Toronto, ON, CAN",
@@ -851,16 +841,6 @@
  },
  {
   "company": "Ciena",
-  "title": "Hardware Design Co-Op (Winter 2027 - 4 Months)",
-  "location": "Ottawa",
-  "term_raw": "January 2027, 4 months",
-  "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Design-Co-Op--Winter-2027---4-Months-_R031782",
-  "posted": "2026-10-06",
-  "source": "Career sites",
-  "origin": "Ciena"
- },
- {
-  "company": "Ciena",
   "title": "Junior Project Manager Intern",
   "location": "Ottawa",
   "term_raw": "",
@@ -936,6 +916,16 @@
   "term_raw": "6 months",
   "url": "https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785",
   "posted": "2026-05-01",
+  "source": "Career sites",
+  "origin": "Cohere"
+ },
+ {
+  "company": "Cohere",
+  "title": "Revenue Operations Intern (Winter, 2027)",
+  "location": "Toronto; New York",
+  "term_raw": "4 months",
+  "url": "https://jobs.ashbyhq.com/cohere/f3290fb2-66f1-44c7-9824-3f416f44af5a",
+  "posted": "2026-10-26",
   "source": "Career sites",
   "origin": "Cohere"
  },
@@ -1270,16 +1260,6 @@
   "origin": "Geotab"
  },
  {
-  "company": "Geotab",
-  "title": "Vehicle Systems Engineering Intern (Winter/January 2027, 4- 8 Months)",
-  "location": "Waterloo, Ontario - Canada",
-  "term_raw": "January 2027, 8 months",
-  "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5381043008",
-  "posted": "2026-09-01",
-  "source": "Career sites",
-  "origin": "Geotab"
- },
- {
   "company": "Hpe",
   "title": "Software Development Intern, AI-Assisted Development (Summer 2027) / Stagiaire en développement de logiciel, développement assisté par l’IA (Été 2027)",
   "location": "St. Laurent, Quebec, Canada",
@@ -1296,6 +1276,16 @@
   "term_raw": "",
   "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/St-Laurent-Quebec-Canada/Software-Development-Intern--AI-Assisted-Development--Summer-2027------Stagiaire-en-dveloppement-de--logiciel--dveloppement-assist-par-l-IA--t-2027-_1214294-1",
   "posted": "2026-10-22",
+  "source": "Foorilla",
+  "origin": "Foorilla"
+ },
+ {
+  "company": "Huawei Technologies Canada",
+  "title": "Intern Researcher – AI Foundation Model Training",
+  "location": "Markham, Ontario, Canada",
+  "term_raw": "12 months",
+  "url": "https://huaweicanada.recruitee.com/o/intern-researcher-ai-foundation-model-training",
+  "posted": "2026-04-28",
   "source": "Foorilla",
   "origin": "Foorilla"
  },
@@ -1616,66 +1606,6 @@
   "term_raw": "",
   "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Co-op-Intern---Canadian-Real-Estate-Finance-Group_JR26091907",
   "posted": "2026-10-01",
-  "source": "Career sites",
-  "origin": "Manulife Financial"
- },
- {
-  "company": "Manulife Financial",
-  "title": "Summer Intern 2027 - ESG & Sustainable Finance Intern",
-  "location": "Toronto, Ontario",
-  "term_raw": "",
-  "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---ESG---Sustainable-Finance-Intern_JR26091126",
-  "posted": "2026-09-28",
-  "source": "Career sites",
-  "origin": "Manulife Financial"
- },
- {
-  "company": "Manulife Financial",
-  "title": "Summer Intern 2027 - GRIT",
-  "location": "Toronto, Ontario",
-  "term_raw": "",
-  "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---GRIT_JR26080516",
-  "posted": "2026-10-08",
-  "source": "Career sites",
-  "origin": "Manulife Financial"
- },
- {
-  "company": "Manulife Financial",
-  "title": "Summer Intern 2027 - GWAM Financial Planning & Analysis",
-  "location": "Toronto, Ontario",
-  "term_raw": "",
-  "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---GWAM-Financial-Planning---Analysis_JR26081175",
-  "posted": "2026-10-08",
-  "source": "Career sites",
-  "origin": "Manulife Financial"
- },
- {
-  "company": "Manulife Financial",
-  "title": "Summer Intern 2027 - Meeting & Event Management",
-  "location": "Toronto, Ontario",
-  "term_raw": "",
-  "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Meeting---Event-Management_JR26081286",
-  "posted": "2026-10-08",
-  "source": "Career sites",
-  "origin": "Manulife Financial"
- },
- {
-  "company": "Manulife Financial",
-  "title": "Summer Intern 2027 - Product Management & Risk Technology",
-  "location": "Toronto, Ontario",
-  "term_raw": "",
-  "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Product-Management---Risk-Technology_JR26080875",
-  "posted": "2026-10-08",
-  "source": "Career sites",
-  "origin": "Manulife Financial"
- },
- {
-  "company": "Manulife Financial",
-  "title": "Winter Co-Op 2027 - Treasury Analyst",
-  "location": "Toronto, Ontario",
-  "term_raw": "",
-  "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-Op-2027---Treasury-Analyst_JR26090169",
-  "posted": "2026-10-14",
   "source": "Career sites",
   "origin": "Manulife Financial"
  },
@@ -2008,16 +1938,6 @@
   "posted": "2026-10-16",
   "source": "Career sites",
   "origin": "Qualcomm"
- },
- {
-  "company": "Qualcomm",
-  "title": "FY27 Intern - Automotive Engineering Internship - Canada (16 months)",
-  "location": "Markham, Ontario, Canada",
-  "term_raw": "16 months",
-  "url": "https://qualcomm.eightfold.ai/careers/job/446721615591",
-  "posted": "2026-10-16",
-  "source": "Foorilla",
-  "origin": "Foorilla"
  },
  {
   "company": "Qualcomm",
@@ -2402,16 +2322,6 @@
  {
   "company": "Royal Bank of Canada",
   "title": "Banking Advisor Intern",
-  "location": "OAKVILLE, Ontario, Canada",
-  "term_raw": "",
-  "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/OAKVILLE-Ontario-Canada/Banking-Advisor-Intern_R-0000190827",
-  "posted": "2026-10-21",
-  "source": "Career sites",
-  "origin": "Royal Bank of Canada"
- },
- {
-  "company": "Royal Bank of Canada",
-  "title": "Banking Advisor Intern",
   "location": "RICHMOND, British Columbia, Canada",
   "term_raw": "",
   "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/RICHMOND-British-Columbia-Canada/Banking-Advisor-Intern_R-0000190874",
@@ -2426,6 +2336,16 @@
   "term_raw": "",
   "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/NORTH-BAY-Ontario-Canada/Banking-Advisor-Intern_R-0000190989-1",
   "posted": "2026-10-22",
+  "source": "Career sites",
+  "origin": "Royal Bank of Canada"
+ },
+ {
+  "company": "Royal Bank of Canada",
+  "title": "Banking Advisor Intern",
+  "location": "HUNTSVILLE, Ontario, Canada",
+  "term_raw": "",
+  "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/HUNTSVILLE-Ontario-Canada/Banking-Advisor-Intern_R-0000191043-1",
+  "posted": "2026-10-26",
   "source": "Career sites",
   "origin": "Royal Bank of Canada"
  },
@@ -2485,16 +2405,6 @@
   "location": "FLIN FLON, Manitoba, Canada",
   "term_raw": "",
   "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/FLIN-FLON-Manitoba-Canada/Client-Advisor-Intern_R-0000190514",
-  "posted": "2026-10-16",
-  "source": "Career sites",
-  "origin": "Royal Bank of Canada"
- },
- {
-  "company": "Royal Bank of Canada",
-  "title": "Client Advisor Intern",
-  "location": "GUELPH/ERAMOSA, Ontario, Canada",
-  "term_raw": "",
-  "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/GUELPHERAMOSA-Ontario-Canada/Client-Advisor-Intern_R-0000190459",
   "posted": "2026-10-16",
   "source": "Career sites",
   "origin": "Royal Bank of Canada"
@@ -2801,16 +2711,6 @@
  },
  {
   "company": "TD Bank",
-  "title": "Job Posting Title L&H Product Management Intern/Co-op (Winter 2027)",
-  "location": "Toronto, Ontario",
-  "term_raw": "4 months",
-  "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Job-Posting-Title-L-H-Product-Management-Intern-Co-op--Winter-2027-_R_1506721",
-  "posted": "2026-10-23",
-  "source": "Career sites",
-  "origin": "TD Bank"
- },
- {
-  "company": "TD Bank",
   "title": "Wealth Operations Automation Intern / Co-Op (Winter 2027)",
   "location": "Toronto, Ontario",
   "term_raw": "",
@@ -2918,15 +2818,5 @@
   "posted": "2026-10-23",
   "source": "Foorilla",
   "origin": "Foorilla"
- },
- {
-  "company": "Wealthsimple",
-  "title": "Intern, Client Experience Strategy & Operations",
-  "location": "Remote (Canada); Toronto, Ontario",
-  "term_raw": "January 2027, 8 months",
-  "url": "https://jobs.ashbyhq.com/wealthsimple/581eee5b-329b-4de3-a9ac-72bf9ce0c654",
-  "posted": "2026-10-13",
-  "source": "Career sites",
-  "origin": "Wealthsimple"
  }
 ]
