@@ -1,18 +1,18 @@
 {
- "run_at": "2026-10-29T17:42:00+00:00",
- "seconds": 300,
- "listings": 296,
- "postings_with_text": 444,
+ "run_at": "2026-10-30T17:42:01+00:00",
+ "seconds": 306,
+ "listings": 302,
+ "postings_with_text": 468,
  "carried_over_from_last_run": [],
  "sources": [
   {
    "source": "Royal Bank of Canada",
    "platform": "workday",
    "ok": true,
-   "rows": 26,
-   "seconds": 270.5,
+   "rows": 24,
+   "seconds": 280.3,
    "notes": [
-    "36 intern titles, 33 possibly in Canada"
+    "33 intern titles, 30 possibly in Canada"
    ],
    "origin": "Royal Bank of Canada"
   },
@@ -20,10 +20,10 @@
    "source": "TD Bank",
    "platform": "workday",
    "ok": true,
-   "rows": 1,
-   "seconds": 77.3,
+   "rows": 0,
+   "seconds": 72.6,
    "notes": [
-    "12 intern titles, 7 possibly in Canada"
+    "10 intern titles, 6 possibly in Canada"
    ],
    "origin": "TD Bank"
   },
@@ -31,10 +31,10 @@
    "source": "Scotiabank",
    "platform": "csb",
    "ok": true,
-   "rows": 5,
-   "seconds": 20.5,
+   "rows": 4,
+   "seconds": 17.3,
    "notes": [
-    "259 search results, 5 intern titles"
+    "257 search results, 4 intern titles"
    ],
    "origin": "Scotiabank"
   },
@@ -43,7 +43,7 @@
    "platform": "workday",
    "ok": true,
    "rows": 8,
-   "seconds": 72.5,
+   "seconds": 71.9,
    "notes": [
     "8 intern titles, 8 possibly in Canada"
    ],
@@ -53,10 +53,10 @@
    "source": "CIBC",
    "platform": "workday",
    "ok": true,
-   "rows": 25,
-   "seconds": 70.6,
+   "rows": 27,
+   "seconds": 90.4,
    "notes": [
-    "32 intern titles, 25 possibly in Canada"
+    "35 intern titles, 27 possibly in Canada"
    ],
    "origin": "CIBC"
   },
@@ -64,10 +64,10 @@
    "source": "Manulife Financial",
    "platform": "workday",
    "ok": true,
-   "rows": 11,
-   "seconds": 72.8,
+   "rows": 8,
+   "seconds": 81.4,
    "notes": [
-    "29 intern titles, 22 possibly in Canada"
+    "26 intern titles, 19 possibly in Canada"
    ],
    "origin": "Manulife Financial"
   },
@@ -75,10 +75,10 @@
    "source": "Sun Life",
    "platform": "workday",
    "ok": true,
-   "rows": 4,
-   "seconds": 37.3,
+   "rows": 5,
+   "seconds": 37.9,
    "notes": [
-    "14 intern titles, 7 possibly in Canada"
+    "12 intern titles, 7 possibly in Canada"
    ],
    "origin": "Sun Life"
   },
@@ -87,7 +87,7 @@
    "platform": "workday",
    "ok": true,
    "rows": 4,
-   "seconds": 61.0,
+   "seconds": 23.9,
    "notes": [
     "4 intern titles, 4 possibly in Canada"
    ],
@@ -98,7 +98,7 @@
    "platform": "workday",
    "ok": true,
    "rows": 2,
-   "seconds": 8.5,
+   "seconds": 7.4,
    "notes": [
     "2 intern titles, 2 possibly in Canada"
    ],
@@ -109,7 +109,7 @@
    "platform": "workday",
    "ok": true,
    "rows": 1,
-   "seconds": 7.8,
+   "seconds": 7.3,
    "notes": [
     "1 intern titles, 1 possibly in Canada"
    ],
@@ -120,7 +120,7 @@
    "platform": "workday",
    "ok": true,
    "rows": 0,
-   "seconds": 3.3,
+   "seconds": 3.4,
    "notes": [
     "0 intern titles, 0 possibly in Canada"
    ],
@@ -131,7 +131,7 @@
    "platform": "eightfold",
    "ok": true,
    "rows": 5,
-   "seconds": 6.9,
+   "seconds": 31.6,
    "notes": [],
    "origin": "Microsoft"
   },
@@ -157,8 +157,8 @@
    "source": "IBM",
    "platform": "ibm",
    "ok": true,
-   "rows": 9,
-   "seconds": 11.7,
+   "rows": 10,
+   "seconds": 11.0,
    "notes": [],
    "origin": "IBM"
   },
@@ -167,9 +167,9 @@
    "platform": "workday",
    "ok": true,
    "rows": 4,
-   "seconds": 112.7,
+   "seconds": 109.4,
    "notes": [
-    "102 intern titles, 33 possibly in Canada"
+    "101 intern titles, 31 possibly in Canada"
    ],
    "origin": "Intel"
   },
@@ -178,7 +178,7 @@
    "platform": "jibe",
    "ok": true,
    "rows": 29,
-   "seconds": 6.6,
+   "seconds": 7.0,
    "notes": [],
    "origin": "AMD"
   },
@@ -187,9 +187,9 @@
    "platform": "workday",
    "ok": true,
    "rows": 2,
-   "seconds": 119.7,
+   "seconds": 109.4,
    "notes": [
-    "209 intern titles, 53 possibly in Canada"
+    "211 intern titles, 53 possibly in Canada"
    ],
    "origin": "NVIDIA"
   },
@@ -197,8 +197,8 @@
    "source": "Qualcomm",
    "platform": "eightfold",
    "ok": true,
-   "rows": 29,
-   "seconds": 23.5,
+   "rows": 30,
+   "seconds": 25.8,
    "notes": [],
    "origin": "Qualcomm"
   },
@@ -207,9 +207,9 @@
    "platform": "workday",
    "ok": true,
    "rows": 0,
-   "seconds": 46.3,
+   "seconds": 48.1,
    "notes": [
-    "19 intern titles, 10 possibly in Canada"
+    "24 intern titles, 12 possibly in Canada"
    ],
    "origin": "Cisco"
   },
@@ -218,7 +218,7 @@
    "platform": "smartrecruiters",
    "ok": true,
    "rows": 0,
-   "seconds": 2.8,
+   "seconds": 2.9,
    "notes": [
     "0 postings in Canada matched the search"
    ],
@@ -229,9 +229,9 @@
    "platform": "workday",
    "ok": true,
    "rows": 0,
-   "seconds": 78.6,
+   "seconds": 51.3,
    "notes": [
-    "13 intern titles, 4 possibly in Canada"
+    "14 intern titles, 5 possibly in Canada"
    ],
    "origin": "Salesforce"
   },
@@ -240,7 +240,7 @@
    "platform": "workday",
    "ok": true,
    "rows": 0,
-   "seconds": 5.0,
+   "seconds": 4.4,
    "notes": [
     "0 intern titles, 0 possibly in Canada"
    ],
@@ -251,9 +251,9 @@
    "platform": "shopify",
    "ok": true,
    "rows": 0,
-   "seconds": 0.5,
+   "seconds": 0.4,
    "notes": [
-    "35 postings listed"
+    "123 postings listed"
    ],
    "origin": "Shopify"
   },
@@ -280,7 +280,7 @@
    "platform": "csb",
    "ok": true,
    "rows": 0,
-   "seconds": 4.7,
+   "seconds": 3.1,
    "notes": [
     "0 search results, 0 intern titles"
    ],
@@ -290,10 +290,10 @@
    "source": "Ciena",
    "platform": "workday",
    "ok": true,
-   "rows": 8,
-   "seconds": 27.9,
+   "rows": 10,
+   "seconds": 29.4,
    "notes": [
-    "12 intern titles, 12 possibly in Canada"
+    "14 intern titles, 14 possibly in Canada"
    ],
    "origin": "Ciena"
   },
@@ -301,8 +301,8 @@
    "source": "Nokia",
    "platform": "oracle",
    "ok": true,
-   "rows": 13,
-   "seconds": 18.7,
+   "rows": 15,
+   "seconds": 20.1,
    "notes": [],
    "origin": "Nokia"
   },
@@ -311,7 +311,7 @@
    "platform": "workday",
    "ok": true,
    "rows": 2,
-   "seconds": 67.2,
+   "seconds": 64.1,
    "notes": [
     "7 intern titles, 7 possibly in Canada"
    ],
@@ -321,8 +321,8 @@
    "source": "Geotab",
    "platform": "greenhouse",
    "ok": true,
-   "rows": 14,
-   "seconds": 1.4,
+   "rows": 15,
+   "seconds": 1.8,
    "notes": [],
    "origin": "Geotab"
   },
@@ -331,7 +331,7 @@
    "platform": "workday",
    "ok": true,
    "rows": 1,
-   "seconds": 11.9,
+   "seconds": 12.6,
    "notes": [
     "1 intern titles, 1 possibly in Canada"
    ],
@@ -342,9 +342,9 @@
    "platform": "csb",
    "ok": true,
    "rows": 0,
-   "seconds": 12.8,
+   "seconds": 10.5,
    "notes": [
-    "147 search results, 0 intern titles"
+    "148 search results, 0 intern titles"
    ],
    "origin": "Rogers"
   },
@@ -353,7 +353,7 @@
    "platform": "csb",
    "ok": true,
    "rows": 0,
-   "seconds": 4.2,
+   "seconds": 4.6,
    "notes": [
     "23 search results, 0 intern titles"
    ],
@@ -363,8 +363,8 @@
    "source": "Electronic Arts",
    "platform": "avature",
    "ok": true,
-   "rows": 12,
-   "seconds": 66.4,
+   "rows": 13,
+   "seconds": 55.3,
    "notes": [],
    "origin": "Electronic Arts"
   },
@@ -373,9 +373,9 @@
    "platform": "smartrecruiters",
    "ok": true,
    "rows": 0,
-   "seconds": 2.8,
+   "seconds": 2.9,
    "notes": [
-    "31 postings in Canada matched the search"
+    "27 postings in Canada matched the search"
    ],
    "origin": "Ubisoft"
   },
@@ -383,8 +383,8 @@
    "source": "Foorilla",
    "platform": "foorilla",
    "ok": true,
-   "rows": 74,
-   "seconds": 178.5,
+   "rows": 76,
+   "seconds": 179.0,
    "notes": [
     "100 Foorilla listings"
    ],
