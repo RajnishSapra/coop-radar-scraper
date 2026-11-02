@@ -1,18 +1,20 @@
 {
- "run_at": "2026-11-01T18:42:01+00:00",
- "seconds": 287,
- "listings": 303,
- "postings_with_text": 498,
- "carried_over_from_last_run": [],
+ "run_at": "2026-11-02T18:42:01+00:00",
+ "seconds": 297,
+ "listings": 291,
+ "postings_with_text": 502,
+ "carried_over_from_last_run": [
+  "Autodesk"
+ ],
  "sources": [
   {
    "source": "Royal Bank of Canada",
    "platform": "workday",
    "ok": true,
-   "rows": 22,
-   "seconds": 214.0,
+   "rows": 20,
+   "seconds": 240.0,
    "notes": [
-    "31 intern titles, 28 possibly in Canada"
+    "31 intern titles, 26 possibly in Canada"
    ],
    "origin": "Royal Bank of Canada"
   },
@@ -20,10 +22,10 @@
    "source": "TD Bank",
    "platform": "workday",
    "ok": true,
-   "rows": 1,
-   "seconds": 63.1,
+   "rows": 0,
+   "seconds": 67.5,
    "notes": [
-    "9 intern titles, 7 possibly in Canada"
+    "8 intern titles, 6 possibly in Canada"
    ],
    "origin": "TD Bank"
   },
@@ -31,10 +33,10 @@
    "source": "Scotiabank",
    "platform": "csb",
    "ok": true,
-   "rows": 4,
-   "seconds": 17.5,
+   "rows": 5,
+   "seconds": 18.2,
    "notes": [
-    "254 search results, 4 intern titles"
+    "251 search results, 5 intern titles"
    ],
    "origin": "Scotiabank"
   },
@@ -42,10 +44,10 @@
    "source": "Bank of Montreal",
    "platform": "workday",
    "ok": true,
-   "rows": 5,
-   "seconds": 54.7,
+   "rows": 6,
+   "seconds": 60.4,
    "notes": [
-    "5 intern titles, 5 possibly in Canada"
+    "6 intern titles, 6 possibly in Canada"
    ],
    "origin": "Bank of Montreal"
   },
@@ -54,9 +56,9 @@
    "platform": "workday",
    "ok": true,
    "rows": 30,
-   "seconds": 64.1,
+   "seconds": 69.0,
    "notes": [
-    "38 intern titles, 30 possibly in Canada"
+    "44 intern titles, 30 possibly in Canada"
    ],
    "origin": "CIBC"
   },
@@ -64,10 +66,10 @@
    "source": "Manulife Financial",
    "platform": "workday",
    "ok": true,
-   "rows": 7,
-   "seconds": 58.1,
+   "rows": 6,
+   "seconds": 60.9,
    "notes": [
-    "10 intern titles, 10 possibly in Canada"
+    "10 intern titles, 9 possibly in Canada"
    ],
    "origin": "Manulife Financial"
   },
@@ -76,9 +78,9 @@
    "platform": "workday",
    "ok": true,
    "rows": 5,
-   "seconds": 29.1,
+   "seconds": 33.7,
    "notes": [
-    "11 intern titles, 7 possibly in Canada"
+    "11 intern titles, 6 possibly in Canada"
    ],
    "origin": "Sun Life"
   },
@@ -87,7 +89,7 @@
    "platform": "workday",
    "ok": true,
    "rows": 4,
-   "seconds": 20.9,
+   "seconds": 23.0,
    "notes": [
     "4 intern titles, 4 possibly in Canada"
    ],
@@ -98,7 +100,7 @@
    "platform": "workday",
    "ok": true,
    "rows": 2,
-   "seconds": 6.7,
+   "seconds": 7.4,
    "notes": [
     "2 intern titles, 2 possibly in Canada"
    ],
@@ -109,7 +111,7 @@
    "platform": "workday",
    "ok": true,
    "rows": 1,
-   "seconds": 6.5,
+   "seconds": 6.8,
    "notes": [
     "1 intern titles, 1 possibly in Canada"
    ],
@@ -120,7 +122,7 @@
    "platform": "workday",
    "ok": true,
    "rows": 0,
-   "seconds": 3.2,
+   "seconds": 3.8,
    "notes": [
     "0 intern titles, 0 possibly in Canada"
    ],
@@ -131,7 +133,7 @@
    "platform": "eightfold",
    "ok": true,
    "rows": 1,
-   "seconds": 23.7,
+   "seconds": 23.5,
    "notes": [],
    "origin": "Microsoft"
   },
@@ -149,7 +151,7 @@
    "platform": "apple",
    "ok": true,
    "rows": 0,
-   "seconds": 2.1,
+   "seconds": 2.2,
    "notes": [],
    "origin": "Apple"
   },
@@ -157,8 +159,8 @@
    "source": "IBM",
    "platform": "ibm",
    "ok": true,
-   "rows": 11,
-   "seconds": 13.1,
+   "rows": 13,
+   "seconds": 15.4,
    "notes": [],
    "origin": "IBM"
   },
@@ -167,9 +169,9 @@
    "platform": "workday",
    "ok": true,
    "rows": 2,
-   "seconds": 86.8,
+   "seconds": 104.4,
    "notes": [
-    "100 intern titles, 29 possibly in Canada"
+    "99 intern titles, 28 possibly in Canada"
    ],
    "origin": "Intel"
   },
@@ -178,7 +180,7 @@
    "platform": "jibe",
    "ok": true,
    "rows": 29,
-   "seconds": 6.6,
+   "seconds": 6.2,
    "notes": [],
    "origin": "AMD"
   },
@@ -187,9 +189,9 @@
    "platform": "workday",
    "ok": true,
    "rows": 2,
-   "seconds": 103.9,
+   "seconds": 112.9,
    "notes": [
-    "209 intern titles, 52 possibly in Canada"
+    "210 intern titles, 52 possibly in Canada"
    ],
    "origin": "NVIDIA"
   },
@@ -198,7 +200,7 @@
    "platform": "eightfold",
    "ok": true,
    "rows": 32,
-   "seconds": 27.3,
+   "seconds": 28.7,
    "notes": [],
    "origin": "Qualcomm"
   },
@@ -207,9 +209,9 @@
    "platform": "workday",
    "ok": true,
    "rows": 0,
-   "seconds": 42.8,
+   "seconds": 45.6,
    "notes": [
-    "21 intern titles, 10 possibly in Canada"
+    "17 intern titles, 8 possibly in Canada"
    ],
    "origin": "Cisco"
   },
@@ -218,7 +220,7 @@
    "platform": "smartrecruiters",
    "ok": true,
    "rows": 0,
-   "seconds": 3.1,
+   "seconds": 2.4,
    "notes": [
     "0 postings in Canada matched the search"
    ],
@@ -229,7 +231,7 @@
    "platform": "workday",
    "ok": true,
    "rows": 0,
-   "seconds": 48.3,
+   "seconds": 51.1,
    "notes": [
     "13 intern titles, 4 possibly in Canada"
    ],
@@ -238,12 +240,12 @@
   {
    "source": "Autodesk",
    "platform": "workday",
-   "ok": true,
+   "ok": false,
+   "error": "HTTPError: 502 Server Error: Bad Gateway for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext/jobs",
+   "trace": "Traceback (most recent call last):\n  File \"D:\\Claude Code\\Sachit internship\\radar_scraper.py\", line 591, in run_source\n    (read_foorilla(src) if platform == \"foorilla\" else READERS[platform](src, **params))\n                                                       ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^\n  File \"D:\\Claude Code\\Sachit internship\\radar_scraper.py\", line 221, in read_workday\n    r.raise_for_status()\n    ~~~~~~~~~~~~~~~~~~^^\n  File \"C:\\ProgramData\\anaconda3\\Lib\\site-packages\\requests\\models.py\", line 1024, in raise_for_status\n    raise HTTPError(http_error_msg, response=self)\nrequests.exceptions.HTTPError: 502 Server Error: Bad Gateway for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext/jobs\n",
    "rows": 0,
-   "seconds": 4.3,
-   "notes": [
-    "0 intern titles, 0 possibly in Canada"
-   ],
+   "seconds": 8.3,
+   "notes": [],
    "origin": "Autodesk"
   },
   {
@@ -251,9 +253,9 @@
    "platform": "shopify",
    "ok": true,
    "rows": 0,
-   "seconds": 0.7,
+   "seconds": 0.6,
    "notes": [
-    "121 postings listed"
+    "118 postings listed"
    ],
    "origin": "Shopify"
   },
@@ -271,7 +273,7 @@
    "platform": "ashby",
    "ok": true,
    "rows": 4,
-   "seconds": 0.8,
+   "seconds": 0.7,
    "notes": [],
    "origin": "Cohere"
   },
@@ -280,7 +282,7 @@
    "platform": "csb",
    "ok": true,
    "rows": 0,
-   "seconds": 5.0,
+   "seconds": 5.5,
    "notes": [
     "0 search results, 0 intern titles"
    ],
@@ -291,7 +293,7 @@
    "platform": "workday",
    "ok": true,
    "rows": 12,
-   "seconds": 28.8,
+   "seconds": 30.6,
    "notes": [
     "16 intern titles, 16 possibly in Canada"
    ],
@@ -301,8 +303,8 @@
    "source": "Nokia",
    "platform": "oracle",
    "ok": true,
-   "rows": 15,
-   "seconds": 18.5,
+   "rows": 6,
+   "seconds": 13.4,
    "notes": [],
    "origin": "Nokia"
   },
@@ -311,9 +313,9 @@
    "platform": "workday",
    "ok": true,
    "rows": 2,
-   "seconds": 60.2,
+   "seconds": 77.4,
    "notes": [
-    "7 intern titles, 7 possibly in Canada"
+    "14 intern titles, 14 possibly in Canada"
    ],
    "origin": "Thomson Reuters"
   },
@@ -321,7 +323,7 @@
    "source": "Geotab",
    "platform": "greenhouse",
    "ok": true,
-   "rows": 12,
+   "rows": 11,
    "seconds": 1.4,
    "notes": [],
    "origin": "Geotab"
@@ -331,7 +333,7 @@
    "platform": "workday",
    "ok": true,
    "rows": 1,
-   "seconds": 9.8,
+   "seconds": 12.8,
    "notes": [
     "1 intern titles, 1 possibly in Canada"
    ],
@@ -342,9 +344,9 @@
    "platform": "csb",
    "ok": true,
    "rows": 0,
-   "seconds": 9.5,
+   "seconds": 9.3,
    "notes": [
-    "147 search results, 0 intern titles"
+    "146 search results, 0 intern titles"
    ],
    "origin": "Rogers"
   },
@@ -353,7 +355,7 @@
    "platform": "csb",
    "ok": true,
    "rows": 0,
-   "seconds": 4.0,
+   "seconds": 4.4,
    "notes": [
     "23 search results, 0 intern titles"
    ],
@@ -364,7 +366,7 @@
    "platform": "avature",
    "ok": true,
    "rows": 13,
-   "seconds": 65.6,
+   "seconds": 56.6,
    "notes": [],
    "origin": "Electronic Arts"
   },
@@ -373,9 +375,9 @@
    "platform": "smartrecruiters",
    "ok": true,
    "rows": 0,
-   "seconds": 3.0,
+   "seconds": 2.4,
    "notes": [
-    "26 postings in Canada matched the search"
+    "27 postings in Canada matched the search"
    ],
    "origin": "Ubisoft"
   },
@@ -383,8 +385,8 @@
    "source": "Foorilla",
    "platform": "foorilla",
    "ok": true,
-   "rows": 83,
-   "seconds": 182.3,
+   "rows": 82,
+   "seconds": 184.4,
    "notes": [
     "100 Foorilla listings"
    ],
