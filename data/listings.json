@@ -570,6 +570,16 @@
   "origin": "Bank of Montreal"
  },
  {
+  "company": "Bank of Montreal",
+  "title": "UX/UI Designer, Winter 2027 (Co-op/Internship)- 4 months",
+  "location": "Toronto, ON, CAN",
+  "term_raw": "",
+  "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951-1",
+  "posted": "2026-11-02",
+  "source": "Career sites",
+  "origin": "Bank of Montreal"
+ },
+ {
   "company": "Boson AI",
   "title": "Internship - MScAC 2027",
   "location": "Toronto",
@@ -775,7 +785,7 @@
   "location": "Toronto, ON",
   "term_raw": "Winter 2027",
   "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Junior-Technical-Writer-co-op_2622456-1",
-  "posted": "2026-10-30",
+  "posted": "2026-11-02",
   "source": "Career sites",
   "origin": "CIBC"
  },
@@ -1001,11 +1011,11 @@
  },
  {
   "company": "Ciena",
-  "title": "Mixed Signal Designer Intern",
-  "location": "Remote-Canada",
-  "term_raw": "",
-  "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-Canada/Mixed-Signal-Designer-Intern_R031989",
-  "posted": "2026-10-30",
+  "title": "Optical New Product Engineering Intern",
+  "location": "Montreal",
+  "term_raw": "8 months",
+  "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Optical-New-Product-Engineering-Intern_R032040",
+  "posted": "2026-11-02",
   "source": "Career sites",
   "origin": "Ciena"
  },
@@ -1341,16 +1351,6 @@
  },
  {
   "company": "Geotab",
-  "title": "Data Analyst Intern (Winter/January 2027, 12 Months)",
-  "location": "Burnaby, British Columbia - Canada; Oakville, Ontario - Canada; Toronto, Ontario - Canada",
-  "term_raw": "January 2027, 12 months",
-  "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5444306008",
-  "posted": "2026-10-29",
-  "source": "Career sites",
-  "origin": "Geotab"
- },
- {
-  "company": "Geotab",
   "title": "Embedded Developer Intern, Engine Data Reliability ( Winter/ January 2027, 12-16 months)",
   "location": "Oakville, Ontario - Canada",
   "term_raw": "January 2027, 16 months",
@@ -1521,6 +1521,16 @@
  },
  {
   "company": "IBM",
+  "title": "Spécialiste technique en ventes d’ingénierie – Stagiaire Programme de vente pour les talents en début de carrière 2027",
+  "location": "Montreal, CA",
+  "term_raw": "",
+  "url": "https://careers.ibm.com/careers/JobDetail?jobId=130880",
+  "posted": "2026-11-02",
+  "source": "Career sites",
+  "origin": "IBM"
+ },
+ {
+  "company": "IBM",
   "title": "Technical Engineering Seller Fall Intern – Entry Level Sales Program 2027",
   "location": "Markham, CA",
   "term_raw": "",
@@ -1635,17 +1645,7 @@
   "location": "Toronto, Ontario",
   "term_raw": "",
   "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Co-op-2027---Venture-Capital_JR26100932",
-  "posted": "2026-10-23",
-  "source": "Career sites",
-  "origin": "Manulife Financial"
- },
- {
-  "company": "Manulife Financial",
-  "title": "Summer Intern 2027 - Canadian Real Estate Finance Group",
-  "location": "Toronto, Ontario; CAN, Ontario, Toronto, 100 King Street West, Suite 2575",
-  "term_raw": "",
-  "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Co-op-Intern---Canadian-Real-Estate-Finance-Group_JR26091907",
-  "posted": "2026-10-01",
+  "posted": "2026-11-02",
   "source": "Career sites",
   "origin": "Manulife Financial"
  },
@@ -1741,36 +1741,6 @@
  },
  {
   "company": "Nokia",
-  "title": "Automation Engineer Co-op/Intern",
-  "location": "Canada",
-  "term_raw": "4 months",
-  "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40892",
-  "posted": "2026-10-02",
-  "source": "Career sites",
-  "origin": "Nokia"
- },
- {
-  "company": "Nokia",
-  "title": "Automation Engineer Co-op/Intern",
-  "location": "Canada",
-  "term_raw": "4 months",
-  "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41168",
-  "posted": "2026-10-02",
-  "source": "Career sites",
-  "origin": "Nokia"
- },
- {
-  "company": "Nokia",
-  "title": "Customer Technical Support Co-op/Intern",
-  "location": "Canada",
-  "term_raw": "4 months",
-  "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39973",
-  "posted": "2026-09-15",
-  "source": "Career sites",
-  "origin": "Nokia"
- },
- {
-  "company": "Nokia",
   "title": "DSP Firmware Engineering Co-op/Intern",
   "location": "Canada",
   "term_raw": "4 months",
@@ -1781,51 +1751,11 @@
  },
  {
   "company": "Nokia",
-  "title": "Data Science Co-op/Intern",
-  "location": "Canada",
-  "term_raw": "4 months",
-  "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39965",
-  "posted": "2026-09-11",
-  "source": "Career sites",
-  "origin": "Nokia"
- },
- {
-  "company": "Nokia",
   "title": "Embedded C/C++ SW Developer Co-op/Intern",
   "location": "Canada",
   "term_raw": "16 months",
   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41311",
   "posted": "2026-10-15",
-  "source": "Career sites",
-  "origin": "Nokia"
- },
- {
-  "company": "Nokia",
-  "title": "Engineering Lab Technician Co-op/Intern",
-  "location": "Canada",
-  "term_raw": "4 months",
-  "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40856",
-  "posted": "2026-10-13",
-  "source": "Career sites",
-  "origin": "Nokia"
- },
- {
-  "company": "Nokia",
-  "title": "Hardware Developer Eng Co-op/Intern",
-  "location": "Canada",
-  "term_raw": "4 months",
-  "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39600",
-  "posted": "2026-09-15",
-  "source": "Career sites",
-  "origin": "Nokia"
- },
- {
-  "company": "Nokia",
-  "title": "Incubation Developer Student",
-  "location": "Canada",
-  "term_raw": "4 months",
-  "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39968",
-  "posted": "2026-09-15",
   "source": "Career sites",
   "origin": "Nokia"
  },
@@ -1851,16 +1781,6 @@
  },
  {
   "company": "Nokia",
-  "title": "Operations Analytics Co-op/Intern",
-  "location": "Canada",
-  "term_raw": "4 months",
-  "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40261",
-  "posted": "2026-09-25",
-  "source": "Career sites",
-  "origin": "Nokia"
- },
- {
-  "company": "Nokia",
   "title": "Optical Test Automation Co-op/Intern",
   "location": "Canada",
   "term_raw": "12 months",
@@ -1876,16 +1796,6 @@
   "term_raw": "12 months",
   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40113",
   "posted": "2026-10-27",
-  "source": "Career sites",
-  "origin": "Nokia"
- },
- {
-  "company": "Nokia",
-  "title": "Optical Test Coop/Intern",
-  "location": "Canada",
-  "term_raw": "January 2027, 4 months",
-  "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39964",
-  "posted": "2026-09-11",
   "source": "Career sites",
   "origin": "Nokia"
  },
@@ -2392,29 +2302,9 @@
  {
   "company": "Royal Bank of Canada",
   "title": "Banking Advisor Intern",
-  "location": "DAWSON CREEK, British Columbia, Canada",
-  "term_raw": "",
-  "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/DAWSON-CREEK-British-Columbia-Canada/Banking-Advisor-Intern_R-0000187304",
-  "posted": "2026-10-16",
-  "source": "Career sites",
-  "origin": "Royal Bank of Canada"
- },
- {
-  "company": "Royal Bank of Canada",
-  "title": "Banking Advisor Intern",
   "location": "OAKVILLE, Ontario, Canada",
   "term_raw": "",
   "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/OAKVILLE-Ontario-Canada/Banking-Advisor-Intern_R-0000190697-1",
-  "posted": "2026-10-20",
-  "source": "Career sites",
-  "origin": "Royal Bank of Canada"
- },
- {
-  "company": "Royal Bank of Canada",
-  "title": "Banking Advisor Intern",
-  "location": "SIX NATIONS (PART) 40, Ontario, Canada",
-  "term_raw": "",
-  "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/SIX-NATIONS-PART-40-Ontario-Canada/Banking-Advisor-Intern_R-0000190794",
   "posted": "2026-10-20",
   "source": "Career sites",
   "origin": "Royal Bank of Canada"
@@ -2472,16 +2362,6 @@
  {
   "company": "Royal Bank of Canada",
   "title": "Client Advisor Intern",
-  "location": "OAKVILLE, Ontario, Canada",
-  "term_raw": "",
-  "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/OAKVILLE-Ontario-Canada/Client-Advisor-Intern_R-0000190668-1",
-  "posted": "2026-10-19",
-  "source": "Career sites",
-  "origin": "Royal Bank of Canada"
- },
- {
-  "company": "Royal Bank of Canada",
-  "title": "Client Advisor Intern",
   "location": "PETAWAWA, Ontario, Canada",
   "term_raw": "",
   "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/PETAWAWA-Ontario-Canada/Client-Advisor-Intern_R-0000190985-2",
@@ -2526,6 +2406,16 @@
   "term_raw": "",
   "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/WHISTLER-British-Columbia-Canada/Client-Advisor-Intern_R-0000191628-1",
   "posted": "2026-10-30",
+  "source": "Career sites",
+  "origin": "Royal Bank of Canada"
+ },
+ {
+  "company": "Royal Bank of Canada",
+  "title": "Client Advisor Intern",
+  "location": "WINDSOR, Ontario, Canada",
+  "term_raw": "",
+  "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/WINDSOR-Ontario-Canada/Client-Advisor-Intern_R-0000191721",
+  "posted": "2026-11-02",
   "source": "Career sites",
   "origin": "Royal Bank of Canada"
  },
@@ -2701,6 +2591,16 @@
  },
  {
   "company": "Scotiabank",
+  "title": "ASPIRE Commercial Banking - Agriculture - Summer 2027 Co-op / Internship - Alberta",
+  "location": "Calgary, AB, CA",
+  "term_raw": "May 2027",
+  "url": "https://jobs.scotiabank.com/job/Calgary-ASPIRE-Commercial-Banking-Agriculture-Summer-2027-Co-op-Internship-Alberta-AB/607598717/",
+  "posted": "2026-11-02",
+  "source": "Career sites",
+  "origin": "Scotiabank"
+ },
+ {
+  "company": "Scotiabank",
   "title": "Canadian Banking - Administration & Support Internship/Co-op - Winter 2027",
   "location": "Toronto, ON, CA",
   "term_raw": "",
@@ -2860,16 +2760,6 @@
   "origin": "Sun Life"
  },
  {
-  "company": "TD Bank",
-  "title": "Cyber Security Intern/Co-op (Winter 2027)",
-  "location": "Toronto, Ontario; Mississauga, Ontario",
-  "term_raw": "4 months",
-  "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Cyber-Security-Co-op---Intern---Winter-2027-_R_1509810",
-  "posted": "2026-10-30",
-  "source": "Career sites",
-  "origin": "TD Bank"
- },
- {
   "company": "TELUS Digital",
   "title": "Software Engineering Intern/Co-op (Canada) - Summer 2027",
   "location": "Vancouver",
@@ -2886,6 +2776,16 @@
   "term_raw": "May 2027",
   "url": "https://tcenergy.wd3.myworkdayjobs.com/en-US/CAREER_SITE_TC/job/Calgary-Alberta/Intern--External-Relations_JR-10914",
   "posted": "2026-10-28",
+  "source": "Foorilla",
+  "origin": "Foorilla"
+ },
+ {
+  "company": "Tecsys Inc.",
+  "title": "Intern - Developer",
+  "location": "Montreal, Quebec, Canada",
+  "term_raw": "",
+  "url": "https://apply.workable.com/j/D61D5FB9AB/apply",
+  "posted": "2026-11-02",
   "source": "Foorilla",
   "origin": "Foorilla"
  },
@@ -2935,26 +2835,6 @@
   "location": "Canada - Richmond Hill, Ontario (Applanix)",
   "term_raw": "May 2027, 16 months",
   "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Automated-Test-Engineering-Intern--16-Month-Internship-_R58004",
-  "posted": "2026-10-23",
-  "source": "Foorilla",
-  "origin": "Foorilla"
- },
- {
-  "company": "Trimble",
-  "title": "Navigation & Machine Learning Engineering Intern (16 Months)",
-  "location": "Canada - Richmond Hill, Ontario (Applanix)",
-  "term_raw": "May 2027, 16 months",
-  "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Navigation---Machine-Learning-Engineering-Intern--16-Months-_R57980",
-  "posted": "2026-10-27",
-  "source": "Foorilla",
-  "origin": "Foorilla"
- },
- {
-  "company": "Trimble",
-  "title": "Software Engineering Intern",
-  "location": "Canada - Richmond Hill, Ontario (Applanix)",
-  "term_raw": "May 2027, 16 months",
-  "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963",
   "posted": "2026-10-23",
   "source": "Foorilla",
   "origin": "Foorilla"
