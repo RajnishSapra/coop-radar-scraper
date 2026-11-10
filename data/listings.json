@@ -313,7 +313,7 @@
   "location": "Montreal, QC, Canada",
   "term_raw": "4 months",
   "url": "https://jobs.smartrecruiters.com/Acumatica/744000159911799-intern-developer-stagiaire-developpeur-",
-  "posted": "2026-11-05",
+  "posted": "2026-11-06",
   "source": "Foorilla",
   "origin": "Foorilla",
   "reopened": ""
@@ -885,7 +885,7 @@
   "location": "Canada - Toronto",
   "term_raw": "",
   "url": "https://job-boards.greenhouse.io/capco/jobs/8359772",
-  "posted": "2026-11-06",
+  "posted": "2026-11-07",
   "source": "Foorilla",
   "origin": "Foorilla",
   "reopened": ""
@@ -985,17 +985,6 @@
   "term_raw": "January 2027, 4 months",
   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Characterization-Automation-Co-op--Winter-2027-_R032014",
   "posted": "2026-10-29",
-  "source": "Career sites",
-  "origin": "Ciena",
-  "reopened": ""
- },
- {
-  "company": "Ciena",
-  "title": "Hardware Engineering Co-op (4 Months)",
-  "location": "Ottawa",
-  "term_raw": "May 2027, 4 months",
-  "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineering-Co-op--4-Months-_R032055",
-  "posted": "2026-11-09",
   "source": "Career sites",
   "origin": "Ciena",
   "reopened": ""
@@ -1149,7 +1138,7 @@
   "location": "Canada",
   "term_raw": "",
   "url": "https://job-boards.eu.greenhouse.io/clinchoice/jobs/5021155101",
-  "posted": "2026-10-30",
+  "posted": "2026-10-31",
   "source": "Foorilla",
   "origin": "Foorilla",
   "reopened": ""
@@ -1237,7 +1226,7 @@
   "location": "North Bay, ON, Canada",
   "term_raw": "",
   "url": "https://jobs.smartrecruiters.com/EgisGroup/744000159214160-intern-highways",
-  "posted": "2026-11-02",
+  "posted": "2026-11-03",
   "source": "Foorilla",
   "origin": "Foorilla",
   "reopened": ""
@@ -1402,18 +1391,7 @@
   "location": "Toronto, ON, Canada",
   "term_raw": "",
   "url": "https://careers-epeconsulting.icims.com/jobs/2433/power-systems-engineer-intern---co-op/job?in_iframe=1",
-  "posted": "2026-11-06",
-  "source": "Foorilla",
-  "origin": "Foorilla",
-  "reopened": ""
- },
- {
-  "company": "Flir",
-  "title": "Stagiaire en tests thermiques/ Thermal Test Co-op",
-  "location": "Canada - Montreal, QC (TDY)",
-  "term_raw": "",
-  "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/Canada---Montreal-QC-TDY/Stagiaire-en-tests-thermiques--Thermal-Test-Co-op_REQ37169",
-  "posted": "2026-11-03",
+  "posted": "2026-11-07",
   "source": "Foorilla",
   "origin": "Foorilla",
   "reopened": ""
@@ -1656,6 +1634,17 @@
   "term_raw": "",
   "url": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Financial-Analyst--4-month-Internship-Coop--Summer-2027-_R156394",
   "posted": "2026-10-28",
+  "source": "Career sites",
+  "origin": "Intact",
+  "reopened": ""
+ },
+ {
+  "company": "Intact",
+  "title": "Stagiaire en technologie, automatisation et solutions collaboratives – Conformité -4 mois Coop/Stagiaire (Hiver 2027)",
+  "location": "Montréal, Quebec, CAN",
+  "term_raw": "",
+  "url": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Stagiaire-en-technologie--automatisation-et-solutions-collaboratives---Conformit--4-mois-Coop-Stagiaire--Hiver-2027-_R156596",
+  "posted": "2026-11-09",
   "source": "Career sites",
   "origin": "Intact",
   "reopened": ""
@@ -2069,17 +2058,6 @@
  },
  {
   "company": "Qualcomm",
-  "title": "FY27 Intern - Compute DSP/AI Processor Engineering Internship - Canada (16 months)",
-  "location": "Markham, Ontario, Canada",
-  "term_raw": "16 months",
-  "url": "https://careers.qualcomm.com/careers/job/446721064094",
-  "posted": "2026-09-17",
-  "source": "Career sites",
-  "origin": "Qualcomm",
-  "reopened": ""
- },
- {
-  "company": "Qualcomm",
   "title": "FY27 Intern - Deep Learning Research Internship - Canada (4 Months)",
   "location": "Markham, Ontario, Canada",
   "term_raw": "4 months",
@@ -2272,6 +2250,17 @@
   "term_raw": "16 months",
   "url": "https://careers.qualcomm.com/careers/job/446721661830",
   "posted": "2026-10-21",
+  "source": "Career sites",
+  "origin": "Qualcomm",
+  "reopened": ""
+ },
+ {
+  "company": "Qualcomm",
+  "title": "FY27 Intern - Firmware Engineering Internship - Canada (16 months)",
+  "location": "Toronto, Ontario, Canada",
+  "term_raw": "16 months",
+  "url": "https://careers.qualcomm.com/careers/job/446722038614",
+  "posted": "2026-11-09",
   "source": "Career sites",
   "origin": "Qualcomm",
   "reopened": ""
@@ -2854,7 +2843,7 @@
   "location": "Vancouver, British Columbia, Canada",
   "term_raw": "",
   "url": "https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000158811580-sap-ixp-intern-agile-developer-business-data-cloud",
-  "posted": "2026-10-30",
+  "posted": "2026-10-31",
   "source": "Foorilla",
   "origin": "Foorilla",
   "reopened": ""
@@ -2956,17 +2945,6 @@
   "posted": "2026-11-02",
   "source": "Career sites",
   "origin": "Scotiabank",
-  "reopened": ""
- },
- {
-  "company": "Semtech",
-  "title": "Test Engineering Intern",
-  "location": "CAN - Burlington, ON, Canada",
-  "term_raw": "16 months",
-  "url": "https://semtech.wd1.myworkdayjobs.com/en-US/SemtechCareers/job/CAN---Burlington-ON/Test-Engineering-Intern_REQ3667",
-  "posted": "2026-11-05",
-  "source": "Foorilla",
-  "origin": "Foorilla",
   "reopened": ""
  },
  {
@@ -3124,6 +3102,17 @@
   "reopened": ""
  },
  {
+  "company": "TD Bank",
+  "title": "Financial Planning Delivery Excellence Intern/Co-Op (Winter 2027)",
+  "location": "Toronto, Ontario",
+  "term_raw": "",
+  "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Financial-Planning-Delivery-Excellence-Intern-Co-Op--Winter-2027-_R_1503307",
+  "posted": "2026-11-09",
+  "source": "Career sites",
+  "origin": "TD Bank",
+  "reopened": ""
+ },
+ {
   "company": "Tcenergy",
   "title": "Intern, Enterprise Security - Detection & Response",
   "location": "Calgary Head Office, Canada",
@@ -3246,6 +3235,17 @@
  },
  {
   "company": "Unknown company",
+  "title": "2027 Software Engineering Intern, Canada",
+  "location": "Toronto, ON, Canada",
+  "term_raw": "",
+  "url": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/304178",
+  "posted": "2026-10-28",
+  "source": "Foorilla",
+  "origin": "Foorilla",
+  "reopened": ""
+ },
+ {
+  "company": "Unknown company",
   "title": "Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Toronto, Ontario, CN",
   "location": "Toronto, ON, Canada",
   "term_raw": "",
@@ -3294,7 +3294,7 @@
   "location": "North Vancouver, BC, Canada",
   "term_raw": "",
   "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/9111",
-  "posted": "2026-10-28",
+  "posted": "2026-10-29",
   "source": "Foorilla",
   "origin": "Foorilla",
   "reopened": ""
@@ -3316,7 +3316,7 @@
   "location": "Montreal, Canada",
   "term_raw": "",
   "url": "https://www.metacareers.com/profile/job_details/1406585275871250",
-  "posted": "2026-11-03",
+  "posted": "2026-11-04",
   "source": "Foorilla",
   "origin": "Foorilla",
   "reopened": ""
