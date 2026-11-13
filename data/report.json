@@ -1,8 +1,8 @@
 {
- "run_at": "2026-11-11T18:42:01+00:00",
- "seconds": 293,
- "listings": 280,
- "postings_with_text": 624,
+ "run_at": "2026-11-13T18:42:01+00:00",
+ "seconds": 295,
+ "listings": 264,
+ "postings_with_text": 639,
  "carried_over_from_last_run": [],
  "dry_run": false,
  "reopened_this_run": [],
@@ -11,27 +11,27 @@
    "source": "Royal Bank of Canada",
    "platform": "workday",
    "ok": true,
-   "rows": 22,
-   "seconds": 66.1,
+   "rows": 21,
+   "seconds": 62.2,
    "notes": [
-    "RBCGLOBAL1: 34 intern titles, 28 possibly in Canada, up to 406 search results past the first 400 not read",
-    "RBCEARLYTALENT1: 19 intern titles, 6 possibly in Canada"
+    "RBCGLOBAL1: 33 intern titles, 27 possibly in Canada, up to 389 search results past the first 400 not read",
+    "RBCEARLYTALENT1: 18 intern titles, 6 possibly in Canada"
    ],
    "origin": "Royal Bank of Canada",
    "boards": [
     {
      "board": "RBCGLOBAL1",
-     "rows": 22,
+     "rows": 21,
      "dropped": {
-      "not an intern title": 495,
+      "not an intern title": 490,
       "location outside Canada (search list)": 6,
       "location outside Canada (posting page)": 6
      },
-     "dropped_total": 507,
-     "postings_found": 529,
+     "dropped_total": 502,
+     "postings_found": 523,
      "search_results": {
-      "intern": 297,
-      "co-op": 806,
+      "intern": 293,
+      "co-op": 789,
       "student": 27
      }
     },
@@ -40,16 +40,16 @@
      "rows": 0,
      "dropped": {
       "not an intern title": 15,
-      "location outside Canada (search list)": 13,
+      "location outside Canada (search list)": 12,
       "location outside Canada (posting page)": 5,
       "same posting already kept from another board or link": 1
      },
-     "dropped_total": 34,
-     "postings_found": 34,
+     "dropped_total": 33,
+     "postings_found": 33,
      "search_results": {
-      "intern": 33,
-      "co-op": 34,
-      "student": 31
+      "intern": 32,
+      "co-op": 33,
+      "student": 30
      }
     }
    ]
@@ -59,9 +59,9 @@
    "platform": "workday",
    "ok": true,
    "rows": 0,
-   "seconds": 65.0,
+   "seconds": 61.9,
    "notes": [
-    "TD_Bank_Careers: 9 intern titles, 7 possibly in Canada, up to 1398 search results past the first 400 not read"
+    "TD_Bank_Careers: 6 intern titles, 3 possibly in Canada, up to 1279 search results past the first 400 not read"
    ],
    "origin": "TD Bank",
    "boards": [
@@ -69,16 +69,17 @@
      "board": "TD_Bank_Careers",
      "rows": 0,
      "dropped": {
-      "not an intern title": 735,
-      "location outside Canada (search list)": 2,
-      "location outside Canada (posting page)": 7
+      "not an intern title": 728,
+      "search entry without a posting link": 1,
+      "location outside Canada (search list)": 3,
+      "location outside Canada (posting page)": 3
      },
-     "dropped_total": 744,
-     "postings_found": 744,
+     "dropped_total": 735,
+     "postings_found": 734,
      "search_results": {
-      "intern": 1564,
-      "co-op": 1798,
-      "student": 12
+      "intern": 1463,
+      "co-op": 1679,
+      "student": 6
      }
     }
    ]
@@ -88,9 +89,9 @@
    "platform": "csb",
    "ok": true,
    "rows": 9,
-   "seconds": 36.8,
+   "seconds": 34.1,
    "notes": [
-    "272 search results, 16 intern titles"
+    "283 search results, 16 intern titles"
    ],
    "origin": "Scotiabank",
    "boards": [
@@ -108,25 +109,25 @@
    "source": "Bank of Montreal",
    "platform": "workday",
    "ok": true,
-   "rows": 7,
-   "seconds": 59.5,
+   "rows": 6,
+   "seconds": 56.8,
    "notes": [
-    "External: 10 intern titles, 7 possibly in Canada, up to 662 search results past the first 400 not read"
+    "External: 9 intern titles, 6 possibly in Canada, up to 649 search results past the first 400 not read"
    ],
    "origin": "Bank of Montreal",
    "boards": [
     {
      "board": "External",
-     "rows": 7,
+     "rows": 6,
      "dropped": {
-      "not an intern title": 547,
+      "not an intern title": 554,
       "location outside Canada (search list)": 3
      },
-     "dropped_total": 550,
-     "postings_found": 557,
+     "dropped_total": 557,
+     "postings_found": 563,
      "search_results": {
-      "intern": 640,
-      "co-op": 1062,
+      "intern": 627,
+      "co-op": 1049,
       "student": 11
      }
     }
@@ -136,26 +137,26 @@
    "source": "CIBC",
    "platform": "workday",
    "ok": true,
-   "rows": 33,
-   "seconds": 75.7,
+   "rows": 27,
+   "seconds": 65.2,
    "notes": [
-    "search: 49 intern titles, 33 possibly in Canada, up to 237 search results past the first 400 not read"
+    "search: 40 intern titles, 27 possibly in Canada, up to 196 search results past the first 400 not read"
    ],
    "origin": "CIBC",
    "boards": [
     {
      "board": "search",
-     "rows": 33,
+     "rows": 27,
      "dropped": {
-      "not an intern title": 404,
-      "location outside Canada (search list)": 16
+      "not an intern title": 402,
+      "location outside Canada (search list)": 13
      },
-     "dropped_total": 420,
-     "postings_found": 453,
+     "dropped_total": 415,
+     "postings_found": 442,
      "search_results": {
-      "intern": 248,
-      "co-op": 637,
-      "student": 53
+      "intern": 233,
+      "co-op": 596,
+      "student": 44
      }
     }
    ]
@@ -164,27 +165,27 @@
    "source": "Manulife Financial",
    "platform": "workday",
    "ok": true,
-   "rows": 15,
-   "seconds": 65.4,
+   "rows": 14,
+   "seconds": 91.4,
    "notes": [
-    "MFCJH_Jobs: 17 intern titles, 16 possibly in Canada, up to 235 search results past the first 400 not read"
+    "MFCJH_Jobs: 17 intern titles, 16 possibly in Canada, up to 229 search results past the first 400 not read"
    ],
    "origin": "Manulife Financial",
    "boards": [
     {
      "board": "MFCJH_Jobs",
-     "rows": 15,
+     "rows": 14,
      "dropped": {
-      "not an intern title": 517,
+      "not an intern title": 515,
       "location outside Canada (search list)": 1,
-      "location outside Canada (posting page)": 1
+      "location outside Canada (posting page)": 2
      },
-     "dropped_total": 519,
-     "postings_found": 534,
+     "dropped_total": 518,
+     "postings_found": 532,
      "search_results": {
-      "intern": 635,
-      "co-op": 635,
-      "student": 19
+      "intern": 629,
+      "co-op": 629,
+      "student": 20
      }
     }
    ]
@@ -194,7 +195,7 @@
    "platform": "workday",
    "ok": true,
    "rows": 6,
-   "seconds": 39.7,
+   "seconds": 37.1,
    "notes": [
     "Experienced-Jobs: 15 intern titles, 9 possibly in Canada"
    ],
@@ -204,15 +205,15 @@
      "board": "Experienced-Jobs",
      "rows": 6,
      "dropped": {
-      "not an intern title": 281,
+      "not an intern title": 270,
       "location outside Canada (search list)": 6,
       "location outside Canada (posting page)": 3
      },
-     "dropped_total": 290,
-     "postings_found": 296,
+     "dropped_total": 279,
+     "postings_found": 285,
      "search_results": {
-      "intern": 131,
-      "co-op": 296,
+      "intern": 123,
+      "co-op": 285,
       "student": 8
      }
     }
@@ -222,25 +223,25 @@
    "source": "Intact",
    "platform": "workday",
    "ok": true,
-   "rows": 4,
-   "seconds": 21.3,
+   "rows": 3,
+   "seconds": 21.1,
    "notes": [
-    "intactfc: 4 intern titles, 4 possibly in Canada"
+    "intactfc: 3 intern titles, 3 possibly in Canada"
    ],
    "origin": "Intact",
    "boards": [
     {
      "board": "intactfc",
-     "rows": 4,
+     "rows": 3,
      "dropped": {
-      "not an intern title": 148
+      "not an intern title": 151
      },
-     "dropped_total": 148,
-     "postings_found": 152,
+     "dropped_total": 151,
+     "postings_found": 154,
      "search_results": {
-      "intern": 152,
-      "co-op": 152,
-      "student": 4
+      "intern": 154,
+      "co-op": 154,
+      "student": 3
      }
     }
    ]
@@ -249,25 +250,25 @@
    "source": "CPP Investments",
    "platform": "workday",
    "ok": true,
-   "rows": 2,
-   "seconds": 26.7,
+   "rows": 1,
+   "seconds": 5.4,
    "notes": [
-    "cppinvestments: 2 intern titles, 2 possibly in Canada"
+    "cppinvestments: 1 intern titles, 1 possibly in Canada"
    ],
    "origin": "CPP Investments",
    "boards": [
     {
      "board": "cppinvestments",
-     "rows": 2,
+     "rows": 1,
      "dropped": {
-      "not an intern title": 38
+      "not an intern title": 32
      },
-     "dropped_total": 38,
-     "postings_found": 40,
+     "dropped_total": 32,
+     "postings_found": 33,
      "search_results": {
-      "intern": 19,
-      "co-op": 40,
-      "student": 2
+      "intern": 13,
+      "co-op": 33,
+      "student": 1
      }
     }
    ]
@@ -277,7 +278,7 @@
    "platform": "workday",
    "ok": true,
    "rows": 1,
-   "seconds": 7.2,
+   "seconds": 6.6,
    "notes": [
     "OntarioTeachers_Careers: 1 intern titles, 1 possibly in Canada"
    ],
@@ -292,7 +293,7 @@
      "dropped_total": 33,
      "postings_found": 34,
      "search_results": {
-      "intern": 30,
+      "intern": 31,
       "co-op": 34,
       "student": 2
      }
@@ -304,7 +305,7 @@
    "platform": "workday",
    "ok": true,
    "rows": 0,
-   "seconds": 3.6,
+   "seconds": 3.4,
    "notes": [
     "BCI_Careers: 0 intern titles, 0 possibly in Canada"
    ],
@@ -331,7 +332,7 @@
    "platform": "eightfold",
    "ok": true,
    "rows": 3,
-   "seconds": 26.4,
+   "seconds": 5.4,
    "notes": [],
    "origin": "Microsoft",
    "boards": [
@@ -348,7 +349,7 @@
    "platform": "amazon",
    "ok": true,
    "rows": 9,
-   "seconds": 2.0,
+   "seconds": 2.2,
    "notes": [],
    "origin": "Amazon",
    "boards": [
@@ -365,7 +366,7 @@
    "platform": "apple",
    "ok": true,
    "rows": 0,
-   "seconds": 2.2,
+   "seconds": 3.0,
    "notes": [],
    "origin": "Apple",
    "boards": [
@@ -382,7 +383,7 @@
    "platform": "ibm",
    "ok": true,
    "rows": 6,
-   "seconds": 12.0,
+   "seconds": 11.6,
    "notes": [],
    "origin": "IBM",
    "boards": [
@@ -401,9 +402,9 @@
    "platform": "workday",
    "ok": true,
    "rows": 2,
-   "seconds": 87.6,
+   "seconds": 92.6,
    "notes": [
-    "External: 97 intern titles, 24 possibly in Canada, up to 457 search results past the first 400 not read"
+    "External: 98 intern titles, 24 possibly in Canada, up to 460 search results past the first 400 not read"
    ],
    "origin": "Intel",
    "boards": [
@@ -411,16 +412,16 @@
      "board": "External",
      "rows": 2,
      "dropped": {
-      "not an intern title": 521,
-      "location outside Canada (search list)": 73,
+      "not an intern title": 526,
+      "location outside Canada (search list)": 74,
       "location outside Canada (posting page)": 22
      },
-     "dropped_total": 616,
-     "postings_found": 618,
+     "dropped_total": 622,
+     "postings_found": 624,
      "search_results": {
-      "intern": 548,
-      "co-op": 857,
-      "student": 101
+      "intern": 541,
+      "co-op": 860,
+      "student": 102
      }
     }
    ]
@@ -429,14 +430,14 @@
    "source": "AMD",
    "platform": "jibe",
    "ok": true,
-   "rows": 1,
-   "seconds": 6.2,
+   "rows": 0,
+   "seconds": 5.5,
    "notes": [],
    "origin": "AMD",
    "boards": [
     {
      "board": "AMD",
-     "rows": 1,
+     "rows": 0,
      "dropped": {},
      "dropped_total": 0
     }
@@ -447,9 +448,9 @@
    "platform": "workday",
    "ok": true,
    "rows": 2,
-   "seconds": 110.2,
+   "seconds": 122.8,
    "notes": [
-    "NVIDIAExternalCareerSite: 227 intern titles, 51 possibly in Canada, up to 1600 search results past the first 400 not read"
+    "NVIDIAExternalCareerSite: 226 intern titles, 50 possibly in Canada, up to 1600 search results past the first 400 not read"
    ],
    "origin": "NVIDIA",
    "boards": [
@@ -457,16 +458,16 @@
      "board": "NVIDIAExternalCareerSite",
      "rows": 2,
      "dropped": {
-      "not an intern title": 492,
+      "not an intern title": 494,
       "location outside Canada (search list)": 176,
-      "location outside Canada (posting page)": 49
+      "location outside Canada (posting page)": 48
      },
-     "dropped_total": 717,
-     "postings_found": 719,
+     "dropped_total": 718,
+     "postings_found": 720,
      "search_results": {
-      "intern": 1090,
+      "intern": 1084,
       "co-op": 2000,
-      "student": 36
+      "student": 35
      }
     }
    ]
@@ -475,14 +476,14 @@
    "source": "Qualcomm",
    "platform": "eightfold",
    "ok": true,
-   "rows": 35,
-   "seconds": 28.9,
+   "rows": 33,
+   "seconds": 27.2,
    "notes": [],
    "origin": "Qualcomm",
    "boards": [
     {
      "board": "Qualcomm",
-     "rows": 35,
+     "rows": 33,
      "dropped": {},
      "dropped_total": 0
     }
@@ -492,26 +493,26 @@
    "source": "Cisco",
    "platform": "workday",
    "ok": true,
-   "rows": 3,
-   "seconds": 51.1,
+   "rows": 1,
+   "seconds": 47.3,
    "notes": [
-    "Cisco_Careers: 25 intern titles, 14 possibly in Canada, up to 1082 search results past the first 400 not read"
+    "Cisco_Careers: 19 intern titles, 9 possibly in Canada, up to 1053 search results past the first 400 not read"
    ],
    "origin": "Cisco",
    "boards": [
     {
      "board": "Cisco_Careers",
-     "rows": 3,
+     "rows": 1,
      "dropped": {
       "not an intern title": 638,
-      "location outside Canada (search list)": 11,
-      "location outside Canada (posting page)": 11
+      "location outside Canada (search list)": 10,
+      "location outside Canada (posting page)": 8
      },
-     "dropped_total": 660,
-     "postings_found": 663,
+     "dropped_total": 656,
+     "postings_found": 657,
      "search_results": {
-      "intern": 624,
-      "co-op": 1482,
+      "intern": 606,
+      "co-op": 1453,
       "student": 12
      }
     }
@@ -522,7 +523,7 @@
    "platform": "smartrecruiters",
    "ok": true,
    "rows": 0,
-   "seconds": 3.0,
+   "seconds": 2.6,
    "notes": [
     "0 postings in Canada matched the search"
    ],
@@ -541,9 +542,9 @@
    "platform": "workday",
    "ok": true,
    "rows": 0,
-   "seconds": 53.5,
+   "seconds": 53.1,
    "notes": [
-    "External_Career_Site: 12 intern titles, 6 possibly in Canada, up to 1178 search results past the first 400 not read"
+    "External_Career_Site: 11 intern titles, 6 possibly in Canada, up to 1205 search results past the first 400 not read"
    ],
    "origin": "Salesforce",
    "boards": [
@@ -551,17 +552,16 @@
      "board": "External_Career_Site",
      "rows": 0,
      "dropped": {
-      "not an intern title": 605,
-      "search entry without a posting link": 1,
-      "location outside Canada (search list)": 6,
+      "not an intern title": 590,
+      "location outside Canada (search list)": 5,
       "location outside Canada (posting page)": 6
      },
-     "dropped_total": 618,
-     "postings_found": 617,
+     "dropped_total": 601,
+     "postings_found": 601,
      "search_results": {
-      "intern": 764,
-      "co-op": 1578,
-      "student": 10
+      "intern": 796,
+      "co-op": 1605,
+      "student": 12
      }
     }
    ]
@@ -571,7 +571,7 @@
    "platform": "workday",
    "ok": true,
    "rows": 0,
-   "seconds": 4.9,
+   "seconds": 4.4,
    "notes": [
     "Ext: 0 intern titles, 0 possibly in Canada"
    ],
@@ -598,9 +598,9 @@
    "platform": "shopify",
    "ok": true,
    "rows": 0,
-   "seconds": 0.5,
+   "seconds": 0.4,
    "notes": [
-    "110 postings listed"
+    "112 postings listed"
    ],
    "origin": "Shopify",
    "boards": [
@@ -634,7 +634,7 @@
    "platform": "ashby",
    "ok": true,
    "rows": 2,
-   "seconds": 0.8,
+   "seconds": 0.7,
    "notes": [],
    "origin": "Cohere",
    "boards": [
@@ -651,7 +651,7 @@
    "platform": "csb",
    "ok": true,
    "rows": 0,
-   "seconds": 4.8,
+   "seconds": 5.7,
    "notes": [
     "0 search results, 0 intern titles"
    ],
@@ -669,8 +669,8 @@
    "source": "Ciena",
    "platform": "workday",
    "ok": true,
-   "rows": 15,
-   "seconds": 53.0,
+   "rows": 16,
+   "seconds": 36.4,
    "notes": [
     "Careers: 19 intern titles, 19 possibly in Canada"
    ],
@@ -678,16 +678,16 @@
    "boards": [
     {
      "board": "Careers",
-     "rows": 15,
+     "rows": 16,
      "dropped": {
-      "not an intern title": 153,
-      "location outside Canada (posting page)": 4
+      "not an intern title": 159,
+      "location outside Canada (posting page)": 3
      },
-     "dropped_total": 157,
-     "postings_found": 172,
+     "dropped_total": 162,
+     "postings_found": 178,
      "search_results": {
-      "intern": 87,
-      "co-op": 172,
+      "intern": 92,
+      "co-op": 178,
       "student": 19
      }
     }
@@ -697,14 +697,14 @@
    "source": "Nokia",
    "platform": "oracle",
    "ok": true,
-   "rows": 4,
-   "seconds": 14.2,
+   "rows": 2,
+   "seconds": 9.7,
    "notes": [],
    "origin": "Nokia",
    "boards": [
     {
      "board": "Nokia",
-     "rows": 4,
+     "rows": 2,
      "dropped": {},
      "dropped_total": 0
     }
@@ -715,9 +715,9 @@
    "platform": "workday",
    "ok": true,
    "rows": 2,
-   "seconds": 76.6,
+   "seconds": 73.8,
    "notes": [
-    "External_Career_Site: 15 intern titles, 15 possibly in Canada, up to 123 search results past the first 400 not read"
+    "External_Career_Site: 15 intern titles, 15 possibly in Canada, up to 139 search results past the first 400 not read"
    ],
    "origin": "Thomson Reuters",
    "boards": [
@@ -725,14 +725,14 @@
      "board": "External_Career_Site",
      "rows": 2,
      "dropped": {
-      "not an intern title": 459,
+      "not an intern title": 464,
       "location outside Canada (posting page)": 13
      },
-     "dropped_total": 472,
-     "postings_found": 474,
+     "dropped_total": 477,
+     "postings_found": 479,
      "search_results": {
-      "intern": 421,
-      "co-op": 523,
+      "intern": 429,
+      "co-op": 539,
       "student": 10
      }
     }
@@ -742,14 +742,14 @@
    "source": "Geotab",
    "platform": "greenhouse",
    "ok": true,
-   "rows": 6,
-   "seconds": 1.5,
+   "rows": 4,
+   "seconds": 1.4,
    "notes": [],
    "origin": "Geotab",
    "boards": [
     {
      "board": "Geotab",
-     "rows": 6,
+     "rows": 4,
      "dropped": {},
      "dropped_total": 0
     }
@@ -760,7 +760,7 @@
    "platform": "workday",
    "ok": true,
    "rows": 2,
-   "seconds": 11.8,
+   "seconds": 11.3,
    "notes": [
     "ClioCareerSite: 2 intern titles, 2 possibly in Canada"
    ],
@@ -770,13 +770,13 @@
      "board": "ClioCareerSite",
      "rows": 2,
      "dropped": {
-      "not an intern title": 120
+      "not an intern title": 129
      },
-     "dropped_total": 120,
-     "postings_found": 122,
+     "dropped_total": 129,
+     "postings_found": 131,
      "search_results": {
-      "intern": 56,
-      "co-op": 122,
+      "intern": 61,
+      "co-op": 131,
       "student": 2
      }
     }
@@ -787,9 +787,9 @@
    "platform": "csb",
    "ok": true,
    "rows": 0,
-   "seconds": 14.2,
+   "seconds": 11.0,
    "notes": [
-    "159 search results, 0 intern titles"
+    "161 search results, 0 intern titles"
    ],
    "origin": "Rogers",
    "boards": [
@@ -806,9 +806,9 @@
    "platform": "csb",
    "ok": true,
    "rows": 0,
-   "seconds": 7.7,
+   "seconds": 4.9,
    "notes": [
-    "25 search results, 0 intern titles"
+    "24 search results, 0 intern titles"
    ],
    "origin": "TELUS",
    "boards": [
@@ -824,14 +824,14 @@
    "source": "Electronic Arts",
    "platform": "avature",
    "ok": true,
-   "rows": 11,
-   "seconds": 51.1,
+   "rows": 12,
+   "seconds": 49.4,
    "notes": [],
    "origin": "Electronic Arts",
    "boards": [
     {
      "board": "Electronic Arts",
-     "rows": 11,
+     "rows": 12,
      "dropped": {},
      "dropped_total": 0
     }
@@ -842,9 +842,9 @@
    "platform": "smartrecruiters",
    "ok": true,
    "rows": 0,
-   "seconds": 2.9,
+   "seconds": 2.6,
    "notes": [
-    "36 postings in Canada matched the search"
+    "37 postings in Canada matched the search"
    ],
    "origin": "Ubisoft",
    "boards": [
@@ -860,8 +860,8 @@
    "source": "Foorilla",
    "platform": "foorilla",
    "ok": true,
-   "rows": 78,
-   "seconds": 178.8,
+   "rows": 80,
+   "seconds": 190.3,
    "notes": [
     "100 Foorilla listings"
    ],
@@ -869,7 +869,7 @@
    "boards": [
     {
      "board": "Foorilla",
-     "rows": 78,
+     "rows": 80,
      "dropped": {},
      "dropped_total": 0
     }
