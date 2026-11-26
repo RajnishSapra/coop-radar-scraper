@@ -22,6 +22,17 @@
   "reopened": ""
  },
  {
+  "company": "Aecom2",
+  "title": "Civil-Environmental Engineering Intern",
+  "location": "Calgary, AB, Canada",
+  "term_raw": "May 2027",
+  "url": "https://jobs.smartrecruiters.com/AECOM2/744000163763619-civil-environmental-engineering-intern",
+  "posted": "2026-11-26",
+  "source": "Foorilla",
+  "origin": "Foorilla",
+  "reopened": ""
+ },
+ {
   "company": "Aimco",
   "title": "Intern, Test Automation (12-month term)",
   "location": "Edmonton, Canada",
@@ -52,17 +63,6 @@
   "posted": "2026-11-13",
   "source": "Foorilla",
   "origin": "Foorilla",
-  "reopened": ""
- },
- {
-  "company": "Altera",
-  "title": "AI Software Development Engineer Intern",
-  "location": "Toronto, Ontario, Canada",
-  "term_raw": "",
-  "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/AI-Software-Development-Engineer-Intern_R03487",
-  "posted": "2026-11-24",
-  "source": "Career sites",
-  "origin": "Altera",
   "reopened": ""
  },
  {
@@ -107,17 +107,6 @@
   "posted": "2026-11-09",
   "source": "Career sites",
   "origin": "Altera",
-  "reopened": ""
- },
- {
-  "company": "Altera",
-  "title": "FPGA Design Verification Intern",
-  "location": "Toronto, Ontario, Canada",
-  "term_raw": "",
-  "url": "https://altera.wd1.myworkdayjobs.com/en-US/Altera/job/Toronto-Ontario-Canada/FPGA-Design-Verification-Intern_R03440",
-  "posted": "2026-11-09",
-  "source": "Foorilla",
-  "origin": "Foorilla",
   "reopened": ""
  },
  {
@@ -375,11 +364,33 @@
  },
  {
   "company": "CAE",
-  "title": "C-SSE-150 Environment, Health & Safety Intern",
+  "title": "C-GSS-156  Supplier Data Agent Intern",
   "location": "Montreal (St. Laurent)",
   "term_raw": "",
-  "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-SSE-150-Environment--Health---Safety-Intern_124200",
-  "posted": "2026-10-19",
+  "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GSS-156--Supplier-Data-Agent-Intern_124527-1",
+  "posted": "2026-11-26",
+  "source": "Career sites",
+  "origin": "CAE",
+  "reopened": ""
+ },
+ {
+  "company": "CAE",
+  "title": "C-GSS-157 Business Intelligence and Applied AI Intern - Sustainable Procurement",
+  "location": "Montreal (St. Laurent)",
+  "term_raw": "6 months",
+  "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GSS-157-Business-Intelligence-and-Applied-AI-Intern---Sustainable-Procurement_124528",
+  "posted": "2026-11-26",
+  "source": "Career sites",
+  "origin": "CAE",
+  "reopened": ""
+ },
+ {
+  "company": "CAE",
+  "title": "C-MO-420 Manufacturing Operations Management Intern",
+  "location": "Montreal (St. Laurent)",
+  "term_raw": "6 months",
+  "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-MO-420-Manufacturing-Operations-Management-Intern_123305",
+  "posted": "2026-11-26",
   "source": "Career sites",
   "origin": "CAE",
   "reopened": ""
@@ -485,6 +496,17 @@
  },
  {
   "company": "Celestica",
+  "title": "Student Intern, AI Agent Developer and Sales Enablement",
+  "location": "Remote Employee Canada, ON, CA",
+  "term_raw": "May 2027, 13 months",
+  "url": "https://careers.celestica.com/job/Remote-Employee-Canada-Student-Intern%2C-AI-Agent-Developer-and-Sales-Enablement-ON/1460765233/",
+  "posted": "2026-11-25",
+  "source": "Foorilla",
+  "origin": "Foorilla",
+  "reopened": ""
+ },
+ {
+  "company": "Celestica",
   "title": "Student Intern, Analytics Centre of Excellence",
   "location": "Toronto, ON, CA",
   "term_raw": "May 2027, 16 months",
@@ -507,11 +529,22 @@
  },
  {
   "company": "Celestica",
-  "title": "Student Intern, IT Business Application Development",
+  "title": "Student Intern, Engineering AI Development",
   "location": "Toronto, ON, CA",
   "term_raw": "May 2027, 16 months",
-  "url": "https://careers.celestica.com/job/Toronto-Student-Intern%2C-IT-Business-Application-Development-ON/1455777233/",
-  "posted": "2026-11-09",
+  "url": "https://careers.celestica.com/job/Toronto-Student-Intern%2C-Engineering-AI-Development-ON/1460691233/",
+  "posted": "2026-11-25",
+  "source": "Foorilla",
+  "origin": "Foorilla",
+  "reopened": ""
+ },
+ {
+  "company": "Celestica",
+  "title": "Student Intern, Engineering Data Analytics",
+  "location": "Toronto, ON, CA",
+  "term_raw": "May 2027, 16 months",
+  "url": "https://careers.celestica.com/job/Toronto-Student-Intern%2C-Engineering-Data-Analytics-ON/1460684533/",
+  "posted": "2026-11-25",
   "source": "Foorilla",
   "origin": "Foorilla",
   "reopened": ""
@@ -559,6 +592,17 @@
   "source": "Career sites",
   "origin": "Ciena",
   "reopened": "Reposted Nov 18 (first posted Oct 30)"
+ },
+ {
+  "company": "Ciena",
+  "title": "Automation engineer - Global Technical Support Intern",
+  "location": "Ottawa",
+  "term_raw": "",
+  "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Automation-engineer---Global-Technical-Support-Intern_R032186",
+  "posted": "2026-11-26",
+  "source": "Career sites",
+  "origin": "Ciena",
+  "reopened": ""
  },
  {
   "company": "Ciena",
@@ -649,17 +693,6 @@
   "reopened": ""
  },
  {
-  "company": "Cisco",
-  "title": "Software Developer Embedded Systems II (Co-op) – Canada",
-  "location": "Kanata, Ontario, Canada; Saint-Laurent, Quebec, Canada; Calgary, Alberta, Canada; Toronto, Ontario, Canada; Montreal, Quebec, Canada; Vancouver, British Columbia, Canada; Ottawa, Ontario, Canada",
-  "term_raw": "",
-  "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-II--Co-op----Canada_2024136",
-  "posted": "2026-11-06",
-  "source": "Career sites",
-  "origin": "Cisco",
-  "reopened": ""
- },
- {
   "company": "City of Ontario",
   "title": "Administrative Intern - Fire Technology",
   "location": "Ontario",
@@ -701,17 +734,6 @@
   "posted": "2026-05-01",
   "source": "Career sites",
   "origin": "Cohere",
-  "reopened": ""
- },
- {
-  "company": "Connor, Clark & Lunn Financial Group",
-  "title": "Intern, Institutional Client Reporting",
-  "location": "Vancouver, British Columbia, Canada",
-  "term_raw": "4 months",
-  "url": "https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4484639009",
-  "posted": "2026-11-20",
-  "source": "Foorilla",
-  "origin": "Foorilla",
   "reopened": ""
  },
  {
@@ -826,17 +848,6 @@
  },
  {
   "company": "Geotab",
-  "title": "Marketing Intern, Latin America (Winter/January 2027, 12 Months)",
-  "location": "Oakville, Ontario - Canada",
-  "term_raw": "January 2027, 12 months",
-  "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5358560008",
-  "posted": "2026-09-01",
-  "source": "Career sites",
-  "origin": "Geotab",
-  "reopened": ""
- },
- {
-  "company": "Geotab",
   "title": "Solutions Delivery Intern, Maintenance Domain, (Winter/ January 2027, 12 Months)",
   "location": "Oakville, Ontario - Canada",
   "term_raw": "January 2027, 12 months",
@@ -844,6 +855,17 @@
   "posted": "2026-09-02",
   "source": "Career sites",
   "origin": "Geotab",
+  "reopened": ""
+ },
+ {
+  "company": "Gerdau",
+  "title": "Accounting Intern",
+  "location": "Whitby, Ontario, CA, L1N 5T1",
+  "term_raw": "16 months",
+  "url": "https://jobs.gerdau.com/job/Whitby-ACCOUNTING-INTERN-Onta-L1N-5T1/1338525862/",
+  "posted": "2026-11-25",
+  "source": "Foorilla",
+  "origin": "Foorilla",
   "reopened": ""
  },
  {
@@ -875,6 +897,17 @@
   "term_raw": "May 2027",
   "url": "https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Finance-Analyst-Intern-ON-L3T-7W8/1450631500/",
   "posted": "2026-11-13",
+  "source": "Foorilla",
+  "origin": "Foorilla",
+  "reopened": ""
+ },
+ {
+  "company": "Hitachi",
+  "title": "Data and Business Intelligence Analyst, Intern",
+  "location": "(RSBU) Toronto, Canada",
+  "term_raw": "",
+  "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Toronto-Ontario-Canada/Data-and-Business-Intelligence-Analyst--Intern_R0151457",
+  "posted": "2026-11-24",
   "source": "Foorilla",
   "origin": "Foorilla",
   "reopened": ""
@@ -914,33 +947,11 @@
  },
  {
   "company": "IBM",
-  "title": "Data Scientist Intern 2027",
-  "location": "Markham, CA",
-  "term_raw": "",
-  "url": "https://careers.ibm.com/careers/JobDetail?jobId=140610",
-  "posted": "2026-11-18",
-  "source": "Career sites",
-  "origin": "IBM",
-  "reopened": ""
- },
- {
-  "company": "IBM",
   "title": "Delivery Consultant Intern – Entry Level Sales Program 2027",
   "location": "Markham, CA",
   "term_raw": "",
   "url": "https://careers.ibm.com/careers/JobDetail?jobId=132833",
   "posted": "2026-11-17",
-  "source": "Career sites",
-  "origin": "IBM",
-  "reopened": ""
- },
- {
-  "company": "IBM",
-  "title": "Software Developer Intern - 2027",
-  "location": "Markham, CA",
-  "term_raw": "",
-  "url": "https://careers.ibm.com/careers/JobDetail?jobId=140606",
-  "posted": "2026-11-18",
   "source": "Career sites",
   "origin": "IBM",
   "reopened": ""
@@ -1145,17 +1156,6 @@
  },
  {
   "company": "Manulife Financial",
-  "title": "Summer Intern 2027 – General Account Investments Business Architecture",
-  "location": "CAN, Ontario, Toronto, 200 Bloor Street …",
-  "term_raw": "",
-  "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---General-Account-Investments-Business-Architecture_JR26110296",
-  "posted": "2026-11-10",
-  "source": "Foorilla",
-  "origin": "Foorilla",
-  "reopened": ""
- },
- {
-  "company": "Manulife Financial",
   "title": "Winter Co-op 2027 - Canadian Operations Analyst (8 Months)",
   "location": "Toronto, Ontario; Waterloo, Ontario; Halifax, Nova Scotia; Montreal, Quebec",
   "term_raw": "",
@@ -1313,11 +1313,33 @@
   "title": "ASIC Verification Intern - Summer 2027",
   "location": "Canada, Toronto",
   "term_raw": "",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982",
+  "posted": "2026-11-25",
+  "source": "Career sites",
+  "origin": "NVIDIA",
+  "reopened": "Reposted Nov 19 (first posted Oct 30)"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "ASIC Verification Intern - Summer 2027",
+  "location": "Canada, Toronto",
+  "term_raw": "",
   "url": "https://nvidia.eightfold.ai/careers/job/893398235775",
-  "posted": "2026-11-19",
+  "posted": "2026-11-25",
   "source": "Foorilla",
   "origin": "Foorilla",
   "reopened": ""
+ },
+ {
+  "company": "NVIDIA",
+  "title": "PhD Research Intern, Quantum and AI for Chemistry - 2027",
+  "location": "Canada, Toronto",
+  "term_raw": "",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997",
+  "posted": "2026-11-25",
+  "source": "Career sites",
+  "origin": "NVIDIA",
+  "reopened": "Reposted Nov 19 (first posted Oct 30)"
  },
  {
   "company": "Nokia",
@@ -1350,6 +1372,17 @@
   "posted": "2026-11-25",
   "source": "Career sites",
   "origin": "Ontario Teachers' Pension Plan",
+  "reopened": ""
+ },
+ {
+  "company": "Opmobility",
+  "title": "INTERNSHIP - Artificial Intelligence Engineer (M/F)",
+  "location": "Sainte Julie-France, FR",
+  "term_raw": "February 2027, 6 months",
+  "url": "https://careers.opmobility.com/job/Sainte-Julie-France-INTERNSHIP-Artificial-Intelligence-Engineer-%28MF%29/1460580533/",
+  "posted": "2026-11-25",
+  "source": "Foorilla",
+  "origin": "Foorilla",
   "reopened": ""
  },
  {
@@ -1530,17 +1563,6 @@
  },
  {
   "company": "Qualcomm",
-  "title": "FY27 Intern - Edge AI and Display Hardware Architecture Development Engineering Internship - Canada (16 months)",
-  "location": "Markham, Ontario, Canada",
-  "term_raw": "16 months",
-  "url": "https://careers.qualcomm.com/careers/job/446721661830",
-  "posted": "2026-10-21",
-  "source": "Career sites",
-  "origin": "Qualcomm",
-  "reopened": ""
- },
- {
-  "company": "Qualcomm",
   "title": "FY27 Intern - Firmware Engineering Internship - Canada (16 months)",
   "location": "Toronto, Ontario, Canada",
   "term_raw": "16 months",
@@ -1548,17 +1570,6 @@
   "posted": "2026-11-09",
   "source": "Career sites",
   "origin": "Qualcomm",
-  "reopened": ""
- },
- {
-  "company": "Qualcomm",
-  "title": "FY27 Intern - Firmware Engineering Internship - Canada (16 months)",
-  "location": "Toronto, Ontario, Canada",
-  "term_raw": "16 months",
-  "url": "https://qualcomm.eightfold.ai/careers/job/446722038614",
-  "posted": "2026-11-09",
-  "source": "Foorilla",
-  "origin": "Foorilla",
   "reopened": ""
  },
  {
@@ -1728,6 +1739,17 @@
  },
  {
   "company": "Royal Bank of Canada",
+  "title": "2027 Summer Intern Opportunities - Personal & Commercial Operations (PCO)",
+  "location": "YORK MILLS CENTRE, 10 YORK MILLS …",
+  "term_raw": "4 months",
+  "url": "https://rbc.wd3.myworkdayjobs.com/en-US/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Summer-Intern-Opportunities---Personal---Commercial-Operations--PCO-_R-0000185142",
+  "posted": "2026-11-25",
+  "source": "Foorilla",
+  "origin": "Foorilla",
+  "reopened": ""
+ },
+ {
+  "company": "Royal Bank of Canada",
   "title": "Banking Advisor Intern",
   "location": "6168 NO 3 RD:RICHMOND, Canada",
   "term_raw": "",
@@ -1766,6 +1788,17 @@
   "term_raw": "",
   "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/BARRIE-Ontario-Canada/Banking-Advisor-Intern_R-0000193010-2",
   "posted": "2026-11-19",
+  "source": "Career sites",
+  "origin": "Royal Bank of Canada",
+  "reopened": ""
+ },
+ {
+  "company": "Royal Bank of Canada",
+  "title": "Client Advisor Intern",
+  "location": "1281 56 ST:DELTA, Canada",
+  "term_raw": "",
+  "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/1281-56-STDELTA/Client-Advisor-Intern_R-0000193464",
+  "posted": "2026-11-25",
   "source": "Career sites",
   "origin": "Royal Bank of Canada",
   "reopened": ""
@@ -2134,6 +2167,17 @@
   "reopened": ""
  },
  {
+  "company": "Sbdinc",
+  "title": "Demand Planning Intern (8 month Jan-Aug 2027)",
+  "location": "Mississauga CAN - Millcreek Dr, Canada",
+  "term_raw": "6 months",
+  "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Mississauga-Ontario-Canada/Demand-Planning-Intern--8-month-Jan-Aug-2027-_REQ-1000054047",
+  "posted": "2026-11-25",
+  "source": "Foorilla",
+  "origin": "Foorilla",
+  "reopened": ""
+ },
+ {
   "company": "Scotiabank",
   "title": "GBM - Trade Floor Technology Consultant Internship/Co-op - Summer 2027",
   "location": "Toronto, ON, CA",
@@ -2261,39 +2305,6 @@
   "term_raw": "",
   "url": "https://soti.wd3.myworkdayjobs.com/en-US/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-in-Test-Intern--May-2027-12-Months-_R10676",
   "posted": "2026-11-17",
-  "source": "Foorilla",
-  "origin": "Foorilla",
-  "reopened": ""
- },
- {
-  "company": "Spartancontrols",
-  "title": "Co-op/Intern Computer Science or Engineering Student - Data & Software Specialist (May 2027)",
-  "location": "Calgary, AB, CA, T2A 7V2",
-  "term_raw": "16 months",
-  "url": "https://careers.spartancontrols.com/job/Calgary-Co-opIntern-Computer-Science-or-Engineering-Student-Data-&-Software-Specialist-%28May-2027%29-AB-T2A-7V2/607884717/",
-  "posted": "2026-11-09",
-  "source": "Foorilla",
-  "origin": "Foorilla",
-  "reopened": ""
- },
- {
-  "company": "Spartancontrols",
-  "title": "Co-op/Intern Engineering Student - Automation Specialist, Configuration & Design (May 2027)",
-  "location": "Calgary, AB, CA, T2A 7V2",
-  "term_raw": "16 months",
-  "url": "https://careers.spartancontrols.com/job/Calgary-Co-opIntern-Engineering-Student-Automation-Specialist%2C-Configuration-&-Design-%28May-2027%29-AB-T2A-7V2/607885317/",
-  "posted": "2026-11-09",
-  "source": "Foorilla",
-  "origin": "Foorilla",
-  "reopened": ""
- },
- {
-  "company": "Spartancontrols",
-  "title": "Co-op/Intern Engineering Student - Engineering Practice (May 2027)",
-  "location": "Calgary, AB, CA, T2A 7V2",
-  "term_raw": "16 months",
-  "url": "https://careers.spartancontrols.com/job/Calgary-Co-opIntern-Engineering-Student-Engineering-Practice-%28May-2027%29-AB-T2A-7V2/607884617/",
-  "posted": "2026-11-09",
   "source": "Foorilla",
   "origin": "Foorilla",
   "reopened": ""
@@ -2552,6 +2563,17 @@
   "reopened": ""
  },
  {
+  "company": "Tecsys Inc.",
+  "title": "Stagiaire - Développeur",
+  "location": "Montreal, Quebec, Canada",
+  "term_raw": "",
+  "url": "https://apply.workable.com/j/B6D2B7128A/apply",
+  "posted": "2026-11-25",
+  "source": "Foorilla",
+  "origin": "Foorilla",
+  "reopened": ""
+ },
+ {
   "company": "Thales",
   "title": "Member of Technical Staff- Intern",
   "location": "Ottawa, Ontario, K1A 0A1",
@@ -2569,17 +2591,6 @@
   "term_raw": "",
   "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Ottawa/Member-of-Technical-Staff--Intern_R0348683-2",
   "posted": "2026-11-20",
-  "source": "Foorilla",
-  "origin": "Foorilla",
-  "reopened": ""
- },
- {
-  "company": "Thalesgroup",
-  "title": "Research and Innovation Intern",
-  "location": "Ottawa, Ontario, K1A 0A1",
-  "term_raw": "",
-  "url": "https://careers.thalesgroup.com/global/en/job/TGPTGWGLOBALR0348073EXTERNALENGLOBAL",
-  "posted": "2026-11-17",
   "source": "Foorilla",
   "origin": "Foorilla",
   "reopened": ""
@@ -2604,6 +2615,17 @@
   "posted": "2026-11-04",
   "source": "Career sites",
   "origin": "Thomson Reuters",
+  "reopened": ""
+ },
+ {
+  "company": "Unknown company",
+  "title": "Actuarial Analyst Intern",
+  "location": "Any location, Canada",
+  "term_raw": "",
+  "url": "https://www.coalitioninc.com/job-posting?gh_jid=4754625005",
+  "posted": "2026-11-26",
+  "source": "Foorilla",
+  "origin": "Foorilla",
   "reopened": ""
  },
  {
